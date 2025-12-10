@@ -202,10 +202,17 @@ async def handle_callback(update: Update, context: ContextTypes.DEFAULT_TYPE):
         await query.answer("No files available here 😕")
         return
 
+from dotenv import load_dotenv
+
 def main():
     """Run the bot."""
-    TOKEN = "8194807977:AAFPhmEumW7QcNJBReWW_eBYShwntf7BHHw"
+    load_dotenv() # Load variables from .env file
+    TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
     
+    if not TOKEN:
+        print("Error: TELEGRAM_BOT_TOKEN not found in environment variables.")
+        return
+
     application = Application.builder().token(TOKEN).job_queue(None).build()
 
     application.add_handler(CommandHandler("start", start))
