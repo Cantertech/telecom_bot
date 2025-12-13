@@ -42,6 +42,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     reply_markup = InlineKeyboardMarkup(keyboard)
     
     # Check if this is a callback (Back button) or a command (/start)
+    # Check if this is a callback (Back button) or a command (/start)
     if update.callback_query:
         await update.callback_query.edit_message_text(
             "👋 *Welcome to the Telecom Resources Bot!* 🚀\n\n"
@@ -51,13 +52,22 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
             parse_mode="Markdown"
         )
     else:
-        await update.message.reply_text(
+        # /start command typed: Clear old menu to keep chat clean
+        last_menu_id = context.user_data.get("last_menu_id")
+        if last_menu_id:
+            try:
+                await context.bot.delete_message(chat_id=update.message.chat_id, message_id=last_menu_id)
+            except Exception:
+                pass # Message might be too old or already deleted
+
+        msg = await update.message.reply_text(
             "👋 *Welcome to the Telecom Resources Bot!* 🚀\n\n"
-            "� Access slides, past questions, and books easily.\n"
+            "📚 Access slides, past questions, and books easily.\n"
             "👇 *Select your Year to get started:*",
             reply_markup=reply_markup, 
             parse_mode="Markdown"
         )
+        context.user_data["last_menu_id"] = msg.message_id
 
 async def handle_callback(update: Update, context: ContextTypes.DEFAULT_TYPE):
     """Parses the CallbackQuery and updates the message text."""
@@ -122,18 +132,45 @@ async def handle_callback(update: Update, context: ContextTypes.DEFAULT_TYPE):
     # -----------------------
     # Step 3: Select Course
     # -----------------------
+    # -----------------------
+    # Step 3: Select Course
+    # -----------------------
     if data.startswith("course:"):
         course = data.split(":")[1]
         context.user_data["course"] = course
         
-        keyboard = [
-            [
-                InlineKeyboardButton("📄 Slides", callback_data="type:slides"),
-                InlineKeyboardButton("📝 Past Questions", callback_data="type:past")
-            ],
-            # Back button goes to Semester selection
-            [InlineKeyboardButton("🔙 Back", callback_data=f"sem:{context.user_data['semester']}")]
-        ]
+        # Check available content
+        year = context.user_data["year"]
+        semester = context.user_data["semester"]
+        course_data = DATA[year][semester][course]
+        
+        buttons = []
+        # If 'slides' has content, show button
+        if course_data.get("slides"):
+            buttons.append(InlineKeyboardButton("📄 Slides", callback_data="type:slides"))
+        # If 'books' has content, show button
+        if course_data.get("books"):
+            buttons.append(InlineKeyboardButton("📚 Reference Books", callback_data="type:books"))
+        # If 'past' has content, show button
+        if course_data.get("past"):
+            buttons.append(InlineKeyboardButton("📝 Past Questions", callback_data="type:past"))
+        # If 'videos' has content, show button
+        if course_data.get("videos"):
+            buttons.append(InlineKeyboardButton("🎥 Videos", callback_data="type:videos"))
+            
+        # Arrange buttons in rows (2 per row)
+        keyboard = []
+        row = []
+        for btn in buttons:
+            row.append(btn)
+            if len(row) == 2:
+                keyboard.append(row)
+                row = []
+        if row:
+            keyboard.append(row)
+
+        # Back button goes to Semester selection
+        keyboard.append([InlineKeyboardButton("🔙 Back", callback_data=f"sem:{context.user_data['semester']}")])
 
         await query.edit_message_text(
             f"📘 *{course}*\n\n👇 Choose resource type:",
@@ -153,7 +190,7 @@ async def handle_callback(update: Update, context: ContextTypes.DEFAULT_TYPE):
         sem = context.user_data["semester"]
         course = context.user_data["course"]
 
-        files = DATA[year][sem][course][file_type]
+        files = DATA[year][sem][course].get(file_type, [])
 
         keyboard = []
         if not files:
@@ -167,9 +204,16 @@ async def handle_callback(update: Update, context: ContextTypes.DEFAULT_TYPE):
         # Back button goes to Course selection
         keyboard.append([InlineKeyboardButton("🔙 Back", callback_data=f"course:{course}")])
 
-        type_name = "Slides" if file_type == "slides" else "Past Questions"
+        type_name_map = {
+            "slides": "Slides",
+            "past": "Past Questions",
+            "books": "Reference Books",
+            "videos": "Videos"
+        }
+        type_name = type_name_map.get(file_type, "Files")
+        
         await query.edit_message_text(
-            f"� *{type_name} for {course}*\n\n👇 Select a file to download:",
+            f"📂 *{type_name} for {course}*\n\n👇 Select a file to download:",
             reply_markup=InlineKeyboardMarkup(keyboard), 
             parse_mode="Markdown"
         )

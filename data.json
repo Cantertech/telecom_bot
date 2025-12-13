@@ -37,22 +37,12 @@
                         "name": "Environmental Science passco.pdf",
                         "download_link": "https://drive.google.com/uc?export=download&id=14Olcf7kqEFGTCGewkMA37ZwtnDEvumwV"
                     }
-                ]
+                ],
+                "books": [],
+                "videos": []
             },
             "EE 151 (Applied Electricity)": {
                 "slides": [
-                    {
-                        "name": "Applied electricity book.pdf",
-                        "download_link": "https://drive.google.com/uc?export=download&id=1OKM7EimSsnuep3RaNUeaNUyauovp7_-5"
-                    },
-                    {
-                        "name": "hughes-electrical-and-electronic-technology-10th-edition.pdf",
-                        "download_link": "https://drive.google.com/uc?export=download&id=1kR13zvU5rjSJ_ApnJXPVMhlEXVmsRMK-"
-                    },
-                    {
-                        "name": "a-textbook-of-electrical-technology-volume-i-basic-electrical-engineering-b-l-theraja.pdf",
-                        "download_link": "https://drive.google.com/uc?export=download&id=1BOgblt9xq5D8MCYx8_nRRAj6NZbxl6f_"
-                    },
                     {
                         "name": "Unit4-EE151.pptx",
                         "download_link": "https://drive.google.com/uc?export=download&id=1GfjOIqih54Yrd1zXX1PKF94sbUnyBMuo"
@@ -95,7 +85,22 @@
                         "name": "Applied electricity book.pdf",
                         "download_link": "https://drive.google.com/uc?export=download&id=1Xzow5AMYy3g27Oj3exsv4kvAi0O1g4jg"
                     }
-                ]
+                ],
+                "books": [
+                    {
+                        "name": "Applied electricity book.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1OKM7EimSsnuep3RaNUeaNUyauovp7_-5"
+                    },
+                    {
+                        "name": "hughes-electrical-and-electronic-technology-10th-edition.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1kR13zvU5rjSJ_ApnJXPVMhlEXVmsRMK-"
+                    },
+                    {
+                        "name": "a-textbook-of-electrical-technology-volume-i-basic-electrical-engineering-b-l-theraja.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1BOgblt9xq5D8MCYx8_nRRAj6NZbxl6f_"
+                    }
+                ],
+                "videos": []
             },
             "EE 153 (Engineering Technology)": {
                 "slides": [
@@ -133,7 +138,9 @@
                         "name": "EE 153 EOS.pdf",
                         "download_link": "https://drive.google.com/uc?export=download&id=1LghgR7N5Lnv2AC724Efyjdilv0Yp4JLa"
                     }
-                ]
+                ],
+                "books": [],
+                "videos": []
             },
             "MATH 151 (Algebra)": {
                 "slides": [
@@ -195,7 +202,9 @@
                         "name": "ALGEBRA Pasco (by NKAY).pdf",
                         "download_link": "https://drive.google.com/uc?export=download&id=1XMaw193yTTAhhVMdj0a3zGFknOwbrXWW"
                     }
-                ]
+                ],
+                "books": [],
+                "videos": []
             },
             "ENGL 157 (Comm. Skills)": {
                 "slides": [
@@ -216,7 +225,9 @@
                         "download_link": "https://drive.google.com/uc?export=download&id=1zf252waVc-VAD2cRFMxK0kMKQ2bDwf1N"
                     }
                 ],
-                "past": []
+                "past": [],
+                "books": [],
+                "videos": []
             },
             "ME 161 (Basic Mechanics)": {
                 "slides": [
@@ -258,7 +269,9 @@
                         "name": "SOLUTION(MATHSHUBGH).pdf",
                         "download_link": "https://drive.google.com/uc?export=download&id=1FbeJRwfdCsmbL0cIJjtYpntxlZZ-DIiy"
                     }
-                ]
+                ],
+                "books": [],
+                "videos": []
             },
             "ME 159 (Technical Drawing)": {
                 "slides": [
@@ -300,20 +313,14 @@
                         "name": "TD Pasco (by NKAY).pdf",
                         "download_link": "https://drive.google.com/uc?export=download&id=1AIC4Wp-KESkQ-M579nhgzCuyDbPUX38b"
                     }
-                ]
+                ],
+                "books": [],
+                "videos": []
             }
         },
         "2": {
             "EE 188 (Electrical Measurement...)": {
                 "slides": [
-                    {
-                        "name": "Electrical_and_Electronic_Measurements_a.pdf",
-                        "download_link": "https://drive.google.com/uc?export=download&id=1z6Gh1AY6CRH3eRHLtB25XgyKCc0KxKKh"
-                    },
-                    {
-                        "name": "A Course In Electronics & Electrical Measurements And Instrumentation ( PDFDrive ).pdf",
-                        "download_link": "https://drive.google.com/uc?export=download&id=14tmUfWYmQzywaZTcNQ-msF68yEMYuVHC"
-                    },
                     {
                         "name": "Lecture 9.pdf",
                         "download_link": "https://drive.google.com/uc?export=download&id=1LzBlu5d09kMLq93gNzWeFmisw9pcsOVd"
@@ -364,7 +371,18 @@
                         "name": "EMI  Questions (1).pdf",
                         "download_link": "https://drive.google.com/uc?export=download&id=1rmtM1yFyu9H9o7FQiOODj5FxjTjShSnW"
                     }
-                ]
+                ],
+                "books": [
+                    {
+                        "name": "Electrical_and_Electronic_Measurements_a.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1z6Gh1AY6CRH3eRHLtB25XgyKCc0KxKKh"
+                    },
+                    {
+                        "name": "A Course In Electronics & Electrical Measurements And Instrumentation ( PDFDrive ).pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=14tmUfWYmQzywaZTcNQ-msF68yEMYuVHC"
+                    }
+                ],
+                "videos": []
             },
             "PSYC 154 (Psychology)": {
                 "slides": [
@@ -413,14 +431,12 @@
                         "download_link": "https://drive.google.com/uc?export=download&id=1UsSoAfJDQF33apVs7bpPUUo0S68tbqCm"
                     }
                 ],
-                "past": []
+                "past": [],
+                "books": [],
+                "videos": []
             },
             "TE 156 (Computer Networking)": {
                 "slides": [
-                    {
-                        "name": "Data-Communications-and-Networking-By-Behrouz-A.Forouzan.pdf",
-                        "download_link": "https://drive.google.com/uc?export=download&id=1XrIM18oN5Trt7lRvQiTqCUG71lq45G7U"
-                    },
                     {
                         "name": "BLUETOOTH (2).pdf",
                         "download_link": "https://drive.google.com/uc?export=download&id=1FeRKkNtqvfzx91jM58ZFuGpj1Zex3952"
@@ -463,7 +479,14 @@
                         "name": "Communication Networks Passco (1).pdf",
                         "download_link": "https://drive.google.com/uc?export=download&id=13MPwN5vdb8vkyiAb5RF0DEmx29uYPUuG"
                     }
-                ]
+                ],
+                "books": [
+                    {
+                        "name": "Data-Communications-and-Networking-By-Behrouz-A.Forouzan.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1XrIM18oN5Trt7lRvQiTqCUG71lq45G7U"
+                    }
+                ],
+                "videos": []
             },
             "EE 152 (Basic Electronics)": {
                 "slides": [
@@ -557,18 +580,12 @@
                         "name": "Quiz.pdf",
                         "download_link": "https://drive.google.com/uc?export=download&id=1iYCB6HCbJV1WC4kjnXZXlvA9TUlQnUv5"
                     }
-                ]
+                ],
+                "books": [],
+                "videos": []
             },
             "MATH 152 (Calculus with Analysis)": {
                 "slides": [
-                    {
-                        "name": "3,000 Solved Problems in Calculus.pdf",
-                        "download_link": "https://drive.google.com/uc?export=download&id=1ycUscjwoWg9FLKAKueSIds_TpZh8EAAD"
-                    },
-                    {
-                        "name": "Paul Dawkins - Calculus I.pdf",
-                        "download_link": "https://drive.google.com/uc?export=download&id=1j1XBkt1lg69eIoZUpI4s94yV_h02pVFy"
-                    },
                     {
                         "name": "M ATH 152  ANALYSIS (2).pdf",
                         "download_link": "https://drive.google.com/uc?export=download&id=1gEIDWYp1-trPgZRw7ZQyzhFLqCPQL6Ne"
@@ -631,18 +648,21 @@
                         "name": "calculus 1 passco.pdf",
                         "download_link": "https://drive.google.com/uc?export=download&id=1GAWkOoX858mq5TQ_mifqC-OaeC3L2zbb"
                     }
-                ]
+                ],
+                "books": [
+                    {
+                        "name": "3,000 Solved Problems in Calculus.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1ycUscjwoWg9FLKAKueSIds_TpZh8EAAD"
+                    },
+                    {
+                        "name": "Paul Dawkins - Calculus I.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1j1XBkt1lg69eIoZUpI4s94yV_h02pVFy"
+                    }
+                ],
+                "videos": []
             },
             "TE 152 (Engineering Research...)": {
                 "slides": [
-                    {
-                        "name": "Research-Methodology-CR-Kothari.pdf",
-                        "download_link": "https://drive.google.com/uc?export=download&id=1W-XKFPJSiD3ne6PGQ0CEdlf8hqkkJf-o"
-                    },
-                    {
-                        "name": "KUMAR_Research methodology.pdf",
-                        "download_link": "https://drive.google.com/uc?export=download&id=15trBHjScMvu0o2kqXKvBBt3ODTAurBB-"
-                    },
                     {
                         "name": "lecture 1.pptx",
                         "download_link": "https://drive.google.com/uc?export=download&id=1fEXObbnWqcl95mchlP2zsDqXI7WTHED1"
@@ -669,42 +689,21 @@
                         "name": "TE 152 MIDSEM_Solo.pdf",
                         "download_link": "https://drive.google.com/uc?export=download&id=1pcihyo33kwEU5-Aw91MB0nNSCnfMnGti"
                     }
-                ]
+                ],
+                "books": [
+                    {
+                        "name": "Research-Methodology-CR-Kothari.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1W-XKFPJSiD3ne6PGQ0CEdlf8hqkkJf-o"
+                    },
+                    {
+                        "name": "KUMAR_Research methodology.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=15trBHjScMvu0o2kqXKvBBt3ODTAurBB-"
+                    }
+                ],
+                "videos": []
             },
             "ENGL 158 (Communication Skills)": {
                 "slides": [
-                    {
-                        "name": "Grammar_Practice_for_Elementary_Students.pdf",
-                        "download_link": "https://drive.google.com/uc?export=download&id=1kryb1qUVFdZ54RuPsPnyZ9IPrtRfRrfx"
-                    },
-                    {
-                        "name": "Grammar_Practice_for_Pre-intermediate_Students.pdf",
-                        "download_link": "https://drive.google.com/uc?export=download&id=13zdhfLRqa2LtRCzuNMQKR9iDiAkPpFks"
-                    },
-                    {
-                        "name": "Grammar_Practice_for_Intermediate_Students.pdf",
-                        "download_link": "https://drive.google.com/uc?export=download&id=1VW2hY-176ireeYKhNuR9CkckAGg25V5W"
-                    },
-                    {
-                        "name": "Grammar_Practice_for_Upper_Intermediate_Students.pdf",
-                        "download_link": "https://drive.google.com/uc?export=download&id=157zjz72YdWukjDb2eRmzAjJhG0M3vM6a"
-                    },
-                    {
-                        "name": "effective-communication-skills.pdf",
-                        "download_link": "https://drive.google.com/uc?export=download&id=1g1bTV4oCfI3UGkS7eDBqD_2bv6edzyHd"
-                    },
-                    {
-                        "name": "communication skills notes for first year second semister.pdf",
-                        "download_link": "https://drive.google.com/uc?export=download&id=1WeKk77HXlbNQIh_rNpWeq2VhlYe3mik6"
-                    },
-                    {
-                        "name": "Communication process.pdf",
-                        "download_link": "https://drive.google.com/uc?export=download&id=1bORyvBdi99D6xIqgKMX7M-H0_QNtk8Xb"
-                    },
-                    {
-                        "name": "The.Good.Grammar.Book.pdf",
-                        "download_link": "https://drive.google.com/uc?export=download&id=1CaEv7dqACiTP_YkSTawEuo3UbsCsSb24"
-                    },
                     {
                         "name": "LT 11.pptx",
                         "download_link": "https://drive.google.com/uc?export=download&id=1roEdiwEEeM6W-5OsY0XIVh6nRGMO4-p2"
@@ -742,22 +741,45 @@
                         "download_link": "https://drive.google.com/uc?export=download&id=1V1NQa8Llt7WkVScTnpm263Biq4RUIDFI"
                     }
                 ],
-                "past": []
+                "past": [],
+                "books": [
+                    {
+                        "name": "Grammar_Practice_for_Elementary_Students.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1kryb1qUVFdZ54RuPsPnyZ9IPrtRfRrfx"
+                    },
+                    {
+                        "name": "Grammar_Practice_for_Pre-intermediate_Students.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=13zdhfLRqa2LtRCzuNMQKR9iDiAkPpFks"
+                    },
+                    {
+                        "name": "Grammar_Practice_for_Intermediate_Students.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1VW2hY-176ireeYKhNuR9CkckAGg25V5W"
+                    },
+                    {
+                        "name": "Grammar_Practice_for_Upper_Intermediate_Students.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=157zjz72YdWukjDb2eRmzAjJhG0M3vM6a"
+                    },
+                    {
+                        "name": "effective-communication-skills.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1g1bTV4oCfI3UGkS7eDBqD_2bv6edzyHd"
+                    },
+                    {
+                        "name": "communication skills notes for first year second semister.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1WeKk77HXlbNQIh_rNpWeq2VhlYe3mik6"
+                    },
+                    {
+                        "name": "Communication process.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1bORyvBdi99D6xIqgKMX7M-H0_QNtk8Xb"
+                    },
+                    {
+                        "name": "The.Good.Grammar.Book.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1CaEv7dqACiTP_YkSTawEuo3UbsCsSb24"
+                    }
+                ],
+                "videos": []
             },
             "TE 158 (Python Programming)": {
                 "slides": [
-                    {
-                        "name": "introduction-to-python-programming-9780815394372-0815394373-9781351013222-135101322x-9781351013239-1351013238_compress.pdf",
-                        "download_link": "https://drive.google.com/uc?export=download&id=1bv_gB9ZWKBVn3Se1XGzD5p1V9rlsCLWr"
-                    },
-                    {
-                        "name": "python-101-second-edition-2nbsped_compress.pdf",
-                        "download_link": "https://drive.google.com/uc?export=download&id=16E_HfJuTCBWuyUsE3QGWHmx5Z0f62Iof"
-                    },
-                    {
-                        "name": "a-concise-introduction-to-programming-in-python-second-edition-2nbsped-9781138082588-1138082589_compress.pdf",
-                        "download_link": "https://drive.google.com/uc?export=download&id=1n06IcFn4l1vErbtCS-mxy2lP9Lc_w8a3"
-                    },
                     {
                         "name": "lecture2 (1).pptx",
                         "download_link": "https://drive.google.com/uc?export=download&id=1WfdbwVRy28pgit_9Kyb3MLdqk5SB3wS_"
@@ -775,7 +797,22 @@
                         "download_link": "https://drive.google.com/uc?export=download&id=1zf6HP_Y-sg28U_aAD76pHLVeY0UBkjsF"
                     }
                 ],
-                "past": []
+                "past": [],
+                "books": [
+                    {
+                        "name": "introduction-to-python-programming-9780815394372-0815394373-9781351013222-135101322x-9781351013239-1351013238_compress.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1bv_gB9ZWKBVn3Se1XGzD5p1V9rlsCLWr"
+                    },
+                    {
+                        "name": "python-101-second-edition-2nbsped_compress.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=16E_HfJuTCBWuyUsE3QGWHmx5Z0f62Iof"
+                    },
+                    {
+                        "name": "a-concise-introduction-to-programming-in-python-second-edition-2nbsped-9781138082588-1138082589_compress.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1n06IcFn4l1vErbtCS-mxy2lP9Lc_w8a3"
+                    }
+                ],
+                "videos": []
             }
         }
     },
@@ -783,14 +820,6 @@
         "1": {
             "ECON 151 (Economics I)": {
                 "slides": [
-                    {
-                        "name": "John Sloman - Economics (2015, Pearson Education Limited) - libgen.lc.pdf",
-                        "download_link": "https://drive.google.com/uc?export=download&id=14wtpbDNhvA1uN_nXrlF5-XA45UtbABH1"
-                    },
-                    {
-                        "name": "JOHN SLOMAN.pdf",
-                        "download_link": "https://drive.google.com/uc?export=download&id=1Nap7TFSI3l-m4ZbvsbNxCsb6xB4PrUID"
-                    },
                     {
                         "name": "ECON 151 Lecture 1.pptx",
                         "download_link": "https://drive.google.com/uc?export=download&id=1Mhd64Nu_RwosGAm9kvchNR6DJiltxmkH"
@@ -833,7 +862,18 @@
                         "name": "Economics-MCQS-eBook-Download(0).pdf",
                         "download_link": "https://drive.google.com/uc?export=download&id=1GC4rQOX7mDAgD7mLd-LVrY54QRl_WN0g"
                     }
-                ]
+                ],
+                "books": [
+                    {
+                        "name": "John Sloman - Economics (2015, Pearson Education Limited) - libgen.lc.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=14wtpbDNhvA1uN_nXrlF5-XA45UtbABH1"
+                    },
+                    {
+                        "name": "JOHN SLOMAN.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1Nap7TFSI3l-m4ZbvsbNxCsb6xB4PrUID"
+                    }
+                ],
+                "videos": []
             },
             "CENG 291 (Engineering in Society)": {
                 "slides": [
@@ -874,22 +914,12 @@
                         "download_link": "https://drive.google.com/uc?export=download&id=1qcGyQRApeKF_zepl5W8LxVAmz_TfAXBM"
                     }
                 ],
-                "past": []
+                "past": [],
+                "books": [],
+                "videos": []
             },
             "EE 287 (Circuit Theory)": {
                 "slides": [
-                    {
-                        "name": "Fundamentals_of_Electric_Circuits_by_Charles_K_Alexander,_Matthew.pdf",
-                        "download_link": "https://drive.google.com/uc?export=download&id=1m3F41eW-4n3vTIzCMoX2ulJw9rM--boH"
-                    },
-                    {
-                        "name": "fundamentals-of-electric-circuits-5th-edgnv64.pdf",
-                        "download_link": "https://drive.google.com/uc?export=download&id=1oCT5SlaFVAwcgD8VCrSsq-uQLr2SdSNK"
-                    },
-                    {
-                        "name": "electric circuit manual.pdf",
-                        "download_link": "https://drive.google.com/uc?export=download&id=1NrfccTDcb1rrHMXg_QYp_7KaWjk5g31t"
-                    },
                     {
                         "name": "EE287Lecture7 - First-Order-Circuits-2025-Complete.pdf",
                         "download_link": "https://drive.google.com/uc?export=download&id=1o3qRP9Vy_lwvNYg8BTmVLqMWmB2wu27k"
@@ -932,7 +962,22 @@
                         "name": "Circuit Theory.pdf",
                         "download_link": "https://drive.google.com/uc?export=download&id=1qdyzBRddFI2D6fe5zEFIuoIc8ZEJOlaY"
                     }
-                ]
+                ],
+                "books": [
+                    {
+                        "name": "Fundamentals_of_Electric_Circuits_by_Charles_K_Alexander,_Matthew.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1m3F41eW-4n3vTIzCMoX2ulJw9rM--boH"
+                    },
+                    {
+                        "name": "fundamentals-of-electric-circuits-5th-edgnv64.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1oCT5SlaFVAwcgD8VCrSsq-uQLr2SdSNK"
+                    },
+                    {
+                        "name": "electric circuit manual.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1NrfccTDcb1rrHMXg_QYp_7KaWjk5g31t"
+                    }
+                ],
+                "videos": []
             },
             "ACF 255 (Accounting I)": {
                 "slides": [
@@ -958,18 +1003,12 @@
                         "name": "Accounting questions .pdf",
                         "download_link": "https://drive.google.com/uc?export=download&id=1r-vWv2ctrzHNHzstFmh28KG0Wnhux858"
                     }
-                ]
+                ],
+                "books": [],
+                "videos": []
             },
             "MATH 251 (Differential Equations)": {
                 "slides": [
-                    {
-                        "name": "Differential Equations Calculus II.pdf",
-                        "download_link": "https://drive.google.com/uc?export=download&id=12D-DTc3Ylq0rd5RrvpJjXLsE_OuMf-tI"
-                    },
-                    {
-                        "name": "Laplace_Table.pdf",
-                        "download_link": "https://drive.google.com/uc?export=download&id=1s4TzRTFigplf1dFHOKqj2qUWh4NHfBqB"
-                    },
                     {
                         "name": "MATH_251_L12.pdf",
                         "download_link": "https://drive.google.com/uc?export=download&id=15v1cmzqgy_xE-sP8iTnKcCQjAC9JBkqH"
@@ -1044,7 +1083,18 @@
                         "name": "DIFFERENTIAL EQNS PASCO (BY NKAY).pdf",
                         "download_link": "https://drive.google.com/uc?export=download&id=1SGo3fMuPkVvapDt6DKOri_715PLUHmdx"
                     }
-                ]
+                ],
+                "books": [
+                    {
+                        "name": "Differential Equations Calculus II.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=12D-DTc3Ylq0rd5RrvpJjXLsE_OuMf-tI"
+                    },
+                    {
+                        "name": "Laplace_Table.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1s4TzRTFigplf1dFHOKqj2qUWh4NHfBqB"
+                    }
+                ],
+                "videos": []
             },
             "FC 181_182 (French I & II)": {
                 "slides": [
@@ -1125,30 +1175,12 @@
                         "download_link": "https://drive.google.com/uc?export=download&id=1fqlQal1EFfabThwR0hn3i7O60WsVNOdx"
                     }
                 ],
-                "past": []
+                "past": [],
+                "books": [],
+                "videos": []
             },
             "TE 253 (Digital Systems)": {
                 "slides": [
-                    {
-                        "name": "Thomas L. Floyd - Digital Fundamentals (2014, Prentice Hall).pdf",
-                        "download_link": "https://drive.google.com/uc?export=download&id=14M7XU8vdrYk6EZKYG9bML9NTYJR59MOz"
-                    },
-                    {
-                        "name": "digital-design-5th-ed-9780132774208-9780273764526-0273764527-0132774208_compress.pdf",
-                        "download_link": "https://drive.google.com/uc?export=download&id=16FSdHxZw-l6Wnh9HFBtxNKmXtnQXPkP6"
-                    },
-                    {
-                        "name": "digital_systems_principles_and_applications_10th_edition_tocci_widmer.pdf",
-                        "download_link": "https://drive.google.com/uc?export=download&id=1YLROmAIf_hsQZJh8jqWL4VA2Tw68CoZc"
-                    },
-                    {
-                        "name": "David M. Harris, Sarah L. Harris - Digital Design and Computer Architecture,-Morgan Kaufmann (2012).pdf",
-                        "download_link": "https://drive.google.com/uc?export=download&id=1Klk-zIc1ZGmTOpjGPdu8apKA1yvzdppa"
-                    },
-                    {
-                        "name": "solutions manual digital design ( PDFDrive ).pdf",
-                        "download_link": "https://drive.google.com/uc?export=download&id=1-FCS5VDXfpprvSLL1q2rXcpzHSNK3ddZ"
-                    },
                     {
                         "name": "Lec 6 Combinational Logic II.pptx",
                         "download_link": "https://drive.google.com/uc?export=download&id=15jGjQBUD9UFLZYk59LzHeuzeq4jupRhc"
@@ -1191,7 +1223,30 @@
                         "name": "Digital systems 2025 midsem_Solo.pdf",
                         "download_link": "https://drive.google.com/uc?export=download&id=1K1-uwHd6cUzLp6VYK6WMlM8KD1vcGfw7"
                     }
-                ]
+                ],
+                "books": [
+                    {
+                        "name": "Thomas L. Floyd - Digital Fundamentals (2014, Prentice Hall).pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=14M7XU8vdrYk6EZKYG9bML9NTYJR59MOz"
+                    },
+                    {
+                        "name": "digital-design-5th-ed-9780132774208-9780273764526-0273764527-0132774208_compress.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=16FSdHxZw-l6Wnh9HFBtxNKmXtnQXPkP6"
+                    },
+                    {
+                        "name": "digital_systems_principles_and_applications_10th_edition_tocci_widmer.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1YLROmAIf_hsQZJh8jqWL4VA2Tw68CoZc"
+                    },
+                    {
+                        "name": "David M. Harris, Sarah L. Harris - Digital Design and Computer Architecture,-Morgan Kaufmann (2012).pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1Klk-zIc1ZGmTOpjGPdu8apKA1yvzdppa"
+                    },
+                    {
+                        "name": "solutions manual digital design ( PDFDrive ).pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1-FCS5VDXfpprvSLL1q2rXcpzHSNK3ddZ"
+                    }
+                ],
+                "videos": []
             },
             "TE 291 (Analog Communication)": {
                 "slides": [
@@ -1237,18 +1292,12 @@
                         "name": "ANALOG.pdf",
                         "download_link": "https://drive.google.com/uc?export=download&id=18XAlGGGLw9a29sDGLrdbvz_JX8JOR_qz"
                     }
-                ]
+                ],
+                "books": [],
+                "videos": []
             },
             "TE 255 (Matlab Programming)": {
                 "slides": [
-                    {
-                        "name": "Essential+MATLAB+for+Engineers+and+Scientists+Fourth+Edition.pdf",
-                        "download_link": "https://drive.google.com/uc?export=download&id=1kjT6CMTuiqxn7icNsBPH96VryUNTV11-"
-                    },
-                    {
-                        "name": "Stephen J. Chapman - MATLAB Programming for Engineers-Cengage Learning (2019).pdf",
-                        "download_link": "https://drive.google.com/uc?export=download&id=1UJZ_Fu3HzA6tJgLQpND6JFOvAqN3YoXU"
-                    },
                     {
                         "name": "midsem '25 passco.jpg",
                         "download_link": "https://drive.google.com/uc?export=download&id=1npqHHQmMTbR0a6pCD2QgJwPVnq_d1LOk"
@@ -1274,7 +1323,18 @@
                         "download_link": "https://drive.google.com/uc?export=download&id=1JMnTXJsMPoXGlJ-yvH9o-DdnefeGjM55"
                     }
                 ],
-                "past": []
+                "past": [],
+                "books": [
+                    {
+                        "name": "Essential+MATLAB+for+Engineers+and+Scientists+Fourth+Edition.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1kjT6CMTuiqxn7icNsBPH96VryUNTV11-"
+                    },
+                    {
+                        "name": "Stephen J. Chapman - MATLAB Programming for Engineers-Cengage Learning (2019).pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1UJZ_Fu3HzA6tJgLQpND6JFOvAqN3YoXU"
+                    }
+                ],
+                "videos": []
             }
         },
         "2": {
@@ -1357,22 +1417,12 @@
                         "download_link": "https://drive.google.com/uc?export=download&id=1LsqSMsMbOxi1oJ7GHbj20rpAdN1gEVTu"
                     }
                 ],
-                "past": []
+                "past": [],
+                "books": [],
+                "videos": []
             },
             "TE 252 (Data Science)": {
                 "slides": [
-                    {
-                        "name": "Data Science from Scratch by Joel Grus.pdf",
-                        "download_link": "https://drive.google.com/uc?export=download&id=1T3ttdgSh8LuwLFbd0pHme-LHY_x5ECu3"
-                    },
-                    {
-                        "name": "Python for Data Analysis _ data wrangling with Pandas- NumPy- and IPython.pdf",
-                        "download_link": "https://drive.google.com/uc?export=download&id=1gFjnz2iLG_oW-vX7R8S9C6fxYhIdGKsV"
-                    },
-                    {
-                        "name": "fundamentals of data science,  blum , kannan.pdf",
-                        "download_link": "https://drive.google.com/uc?export=download&id=1b6UDNJeNFX_MIZCjBmXDspxJHX9Yj0v1"
-                    },
                     {
                         "name": "Practical Session_1.pptx",
                         "download_link": "https://drive.google.com/uc?export=download&id=1JniwDuX-8GxLi4JEwi642JHPcks1aUU3"
@@ -1423,7 +1473,22 @@
                         "name": "Data Science Passco.pdf",
                         "download_link": "https://drive.google.com/uc?export=download&id=1CBcEGpeZ7f-aZcwbnq7Cz9hFTuHGeEMZ"
                     }
-                ]
+                ],
+                "books": [
+                    {
+                        "name": "Data Science from Scratch by Joel Grus.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1T3ttdgSh8LuwLFbd0pHme-LHY_x5ECu3"
+                    },
+                    {
+                        "name": "Python for Data Analysis _ data wrangling with Pandas- NumPy- and IPython.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1gFjnz2iLG_oW-vX7R8S9C6fxYhIdGKsV"
+                    },
+                    {
+                        "name": "fundamentals of data science,  blum , kannan.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1b6UDNJeNFX_MIZCjBmXDspxJHX9Yj0v1"
+                    }
+                ],
+                "videos": []
             },
             "ACF 256 (Accounting II)": {
                 "slides": [
@@ -1465,26 +1530,12 @@
                         "name": "QUESTION_ACCOUNTING_EQUATION.docx",
                         "download_link": "https://drive.google.com/uc?export=download&id=1H70ntDSnbCWKTDtY6zrztPT0qamDv8cf"
                     }
-                ]
+                ],
+                "books": [],
+                "videos": []
             },
             "TE 254 (Em Fields)": {
                 "slides": [
-                    {
-                        "name": "David_K_Cheng_Fundamentals_of_Engineering_Electromagnetics_Prentice.pdf",
-                        "download_link": "https://drive.google.com/uc?export=download&id=1-tQpwujDeBlk3UDSw3veZlu4_O7IeY3P"
-                    },
-                    {
-                        "name": "David_K_Cheng_Fundamentals_of_Engineering_Electromagnetics_Solutions.pdf",
-                        "download_link": "https://drive.google.com/uc?export=download&id=1Bsx90IDzOG6yyRV4CVMXY3NjoR5wh1Ao"
-                    },
-                    {
-                        "name": "engineering electromagnetics.pdf",
-                        "download_link": "https://drive.google.com/uc?export=download&id=1M700QRljwM5GsDHOHVyxBt4pNLci9BDq"
-                    },
-                    {
-                        "name": "AntennasFromTheorytoPractice.pdf",
-                        "download_link": "https://drive.google.com/uc?export=download&id=14IG9VOOktM5e3LkwDQmukXweF1jWHbGH"
-                    },
                     {
                         "name": "EM feilds slides.pdf",
                         "download_link": "https://drive.google.com/uc?export=download&id=15z0MgUuFkg9yApBhSBYy3WvRFf266THX"
@@ -1507,18 +1558,29 @@
                         "name": "EBEN EM FIELDS QU..pdf",
                         "download_link": "https://drive.google.com/uc?export=download&id=1kSihfNmbzr1rCesZafrpk18y62Qf_41j"
                     }
-                ]
+                ],
+                "books": [
+                    {
+                        "name": "David_K_Cheng_Fundamentals_of_Engineering_Electromagnetics_Prentice.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1-tQpwujDeBlk3UDSw3veZlu4_O7IeY3P"
+                    },
+                    {
+                        "name": "David_K_Cheng_Fundamentals_of_Engineering_Electromagnetics_Solutions.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1Bsx90IDzOG6yyRV4CVMXY3NjoR5wh1Ao"
+                    },
+                    {
+                        "name": "engineering electromagnetics.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1M700QRljwM5GsDHOHVyxBt4pNLci9BDq"
+                    },
+                    {
+                        "name": "AntennasFromTheorytoPractice.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=14IG9VOOktM5e3LkwDQmukXweF1jWHbGH"
+                    }
+                ],
+                "videos": []
             },
             "ECON 152 (Economics II)": {
                 "slides": [
-                    {
-                        "name": "John Sloman - Economics (2015, Pearson Education Limited) - libgen.lc.pdf",
-                        "download_link": "https://drive.google.com/uc?export=download&id=1B4YB2OgLAe-cvaMOqjL6nk8oof3DBzs4"
-                    },
-                    {
-                        "name": "JOHN SLOMAN.pdf",
-                        "download_link": "https://drive.google.com/uc?export=download&id=1qXG2hY0eL79tRIdUiukeITvjlQJSzyTQ"
-                    },
                     {
                         "name": "ECON 152 LECTURE 1 - National Economy.pptx",
                         "download_link": "https://drive.google.com/uc?export=download&id=1BAXk2U80V3U1Yxf7c7QVrww_u0DwJjVX"
@@ -1581,58 +1643,21 @@
                         "name": "Tutorial 2- ECON 152.pdf",
                         "download_link": "https://drive.google.com/uc?export=download&id=1jaTOBu7xBhlZZk0SWSrNrsE_v0lfPWeA"
                     }
-                ]
+                ],
+                "books": [
+                    {
+                        "name": "John Sloman - Economics (2015, Pearson Education Limited) - libgen.lc.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1B4YB2OgLAe-cvaMOqjL6nk8oof3DBzs4"
+                    },
+                    {
+                        "name": "JOHN SLOMAN.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1qXG2hY0eL79tRIdUiukeITvjlQJSzyTQ"
+                    }
+                ],
+                "videos": []
             },
             "MATH 252 (Calculus with Several Variables)": {
                 "slides": [
-                    {
-                        "name": "Sheet 5.pdf",
-                        "download_link": "https://drive.google.com/uc?export=download&id=1Ux64MP41L-gn2XGbZxEtOKfEVCojdrY6"
-                    },
-                    {
-                        "name": "Sheet 6.pdf",
-                        "download_link": "https://drive.google.com/uc?export=download&id=18XMg85Syn8BdR2Z3FgZv8_RJw-JubYa4"
-                    },
-                    {
-                        "name": "Tutorial Sheet 5.pdf",
-                        "download_link": "https://drive.google.com/uc?export=download&id=1NBwxBcZLJAAodb2EsTewz2L9HjcYv-JF"
-                    },
-                    {
-                        "name": "Sheet 2.pdf",
-                        "download_link": "https://drive.google.com/uc?export=download&id=1Oik4LqPDWtRLJizJ1CTfRC1kE8KloRwU"
-                    },
-                    {
-                        "name": "Sheet 1.pdf",
-                        "download_link": "https://drive.google.com/uc?export=download&id=15kqWtRX1Q9w6A2hH45oKJF1Yjp0VqAWl"
-                    },
-                    {
-                        "name": "Solution-sheet1.pdf",
-                        "download_link": "https://drive.google.com/uc?export=download&id=1NDbIVcVZSLfkzeIQF92NvsloXfXxNfyf"
-                    },
-                    {
-                        "name": "Tutorial Sheet 3.pdf",
-                        "download_link": "https://drive.google.com/uc?export=download&id=1V9jYJ-RGWvCpqGSogQfPHScwvCnFk1Z7"
-                    },
-                    {
-                        "name": "Sheet 4.pdf",
-                        "download_link": "https://drive.google.com/uc?export=download&id=1Zrtoi8fPkc5vuza1e_EgmaMxJWzsm4rZ"
-                    },
-                    {
-                        "name": "MultiVariate Book_trial questions.pdf",
-                        "download_link": "https://drive.google.com/uc?export=download&id=1cM5JlNwsJ7WjSE-UcyK0SM2hoEeQMdku"
-                    },
-                    {
-                        "name": "Assignment (2).pdf",
-                        "download_link": "https://drive.google.com/uc?export=download&id=1Sl_uObYrZbWM9bKE6Xqz7egLkDPvT2qL"
-                    },
-                    {
-                        "name": "Calculus_Solutions.pdf",
-                        "download_link": "https://drive.google.com/uc?export=download&id=1ptCXsVK6lVXK-8V9iy32uwvs1BSCkTW4"
-                    },
-                    {
-                        "name": "CALCULUS III - Pauls Online Math Notes ( PDFDrive ).pdf",
-                        "download_link": "https://drive.google.com/uc?export=download&id=1QBfRtpTPmkWh85ev22Bs6XV_wAMEPHGk"
-                    },
                     {
                         "name": "Reading assignment.pdf",
                         "download_link": "https://drive.google.com/uc?export=download&id=1OkV45kdT_gKZIuzUCfRVRx_Te8yD7V2V"
@@ -1694,7 +1719,58 @@
                         "download_link": "https://drive.google.com/uc?export=download&id=17R_UEg07qmNrPShhKdO0tM3QePopXAlA"
                     }
                 ],
-                "past": []
+                "past": [],
+                "books": [
+                    {
+                        "name": "Sheet 5.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1Ux64MP41L-gn2XGbZxEtOKfEVCojdrY6"
+                    },
+                    {
+                        "name": "Sheet 6.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=18XMg85Syn8BdR2Z3FgZv8_RJw-JubYa4"
+                    },
+                    {
+                        "name": "Tutorial Sheet 5.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1NBwxBcZLJAAodb2EsTewz2L9HjcYv-JF"
+                    },
+                    {
+                        "name": "Sheet 2.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1Oik4LqPDWtRLJizJ1CTfRC1kE8KloRwU"
+                    },
+                    {
+                        "name": "Sheet 1.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=15kqWtRX1Q9w6A2hH45oKJF1Yjp0VqAWl"
+                    },
+                    {
+                        "name": "Solution-sheet1.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1NDbIVcVZSLfkzeIQF92NvsloXfXxNfyf"
+                    },
+                    {
+                        "name": "Tutorial Sheet 3.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1V9jYJ-RGWvCpqGSogQfPHScwvCnFk1Z7"
+                    },
+                    {
+                        "name": "Sheet 4.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1Zrtoi8fPkc5vuza1e_EgmaMxJWzsm4rZ"
+                    },
+                    {
+                        "name": "MultiVariate Book_trial questions.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1cM5JlNwsJ7WjSE-UcyK0SM2hoEeQMdku"
+                    },
+                    {
+                        "name": "Assignment (2).pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1Sl_uObYrZbWM9bKE6Xqz7egLkDPvT2qL"
+                    },
+                    {
+                        "name": "Calculus_Solutions.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1ptCXsVK6lVXK-8V9iy32uwvs1BSCkTW4"
+                    },
+                    {
+                        "name": "CALCULUS III - Pauls Online Math Notes ( PDFDrive ).pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1QBfRtpTPmkWh85ev22Bs6XV_wAMEPHGk"
+                    }
+                ],
+                "videos": []
             },
             "TE 256 (Comm. Circuits)": {
                 "slides": [
@@ -1744,7 +1820,9 @@
                         "name": "Comm Cicuits_240730_192340-1.pdf",
                         "download_link": "https://drive.google.com/uc?export=download&id=1EdIS_ZD7ZB_jwU7mDxv8RZcyse1g8m-H"
                     }
-                ]
+                ],
+                "books": [],
+                "videos": []
             },
             "TE 258 (Microprocessors)": {
                 "slides": [
@@ -1773,7 +1851,2241 @@
                         "download_link": "https://drive.google.com/uc?export=download&id=1fhYXF9pN4Qfx1lvQ1A05hCc9mipNgJKZ"
                     }
                 ],
-                "past": []
+                "past": [],
+                "books": [],
+                "videos": []
+            }
+        }
+    },
+    "3": {
+        "1": {
+            "EE 371 (Microelectronic Devices)": {
+                "slides": [
+                    {
+                        "name": "GROUP 3 MICROELECTRONICS.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1cV6jTDx-qDDCzGDB3FFVVf0-F7WJPIA6"
+                    },
+                    {
+                        "name": "group 7.ppt",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1zMijBDJVgjjS7quhL6mqiSjlz_Z0H32c"
+                    },
+                    {
+                        "name": "Goup 8.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1Qhkep03Ntpvv_tv2ebCuhoz7PupnCoom"
+                    },
+                    {
+                        "name": "Mos_2_GROUP 9.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=18AJnvUmFdKPPkg1V1jn62JWXIgudOpF9"
+                    },
+                    {
+                        "name": "micro electronics grop 4 presentaion.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=11uUlVmdvIh_kbUuYAVQKmByPF7WYxjNd"
+                    },
+                    {
+                        "name": "Group 10.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=182QhCbneBqHAFhnPp5GkRA3qhMezOZoz"
+                    },
+                    {
+                        "name": "Common Base Configuration.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1YalL9CvRWRkRXmteVYJFaXpuiom2WV8O"
+                    },
+                    {
+                        "name": "Group Five(5).pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1A0k0aIzNGUnsS0NaeeMljLbdj64la7ce"
+                    },
+                    {
+                        "name": "MICRO-ELECTRONICS GROUP PRESENTATION - Copy.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1-BBpowcDTZkUL1rPIpkDw9hZNAnmiS49"
+                    },
+                    {
+                        "name": "T_model,_Common_base_and_collector_configuration_Group_6.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1Zd59IkGtAhnkK7iO0HYcIA5zLqxiq0Vh"
+                    },
+                    {
+                        "name": "Topics.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1pGsyZqXQeYzAU6AfB-P1cAU-UR3kMd5t"
+                    },
+                    {
+                        "name": "lecture6  [Auto-saved].pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1VTkcUxKlDSzundkcOQrOmtpob0htpePC"
+                    },
+                    {
+                        "name": "~$Lecture 4_microelectronics.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1947mo9eHhvWInvD_bl9U9VhtH1kLVgEc"
+                    },
+                    {
+                        "name": "lecture5-1.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1T2Mpm7N0RNPXLV0z7SLjtwXk1Uwd2Jt0"
+                    },
+                    {
+                        "name": "~$lecture3.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1l2LJi7IFXz_APR-4vv8ucTkPaHHgxvIl"
+                    },
+                    {
+                        "name": "lecture1pptx.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1nj2PP_rAIRfMqoS4QdcdIbYIlyymmv2Y"
+                    },
+                    {
+                        "name": "Lecture 3_microelectronics.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1HASu4lG_yhaiP0Qp0UkkjqmIP3iQ36rs"
+                    },
+                    {
+                        "name": "Lecture 2_microelectronics.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1aif0BsB7Fg3mvKOy5k-uuQsQfH_BR-3x"
+                    },
+                    {
+                        "name": "lecture0.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1wFMKGyLMyZeIsA96VVNIfnKFdV5L6wXv"
+                    },
+                    {
+                        "name": "lecture3.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1k6JkU0AjdFpu8OY-sr8HpDOwj-ovMhZB"
+                    },
+                    {
+                        "name": "Lecture 4_microelectronics.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1-4y9dddLGP-zyVueqXl1DFuxOwipfB-K"
+                    }
+                ],
+                "past": [],
+                "books": [],
+                "videos": []
+            },
+            "MATH 351 (Numerical Analysis)": {
+                "slides": [
+                    {
+                        "name": "MATH 351, Numerical Analysis Slides.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1rLQr4elUZ9obaAURHW64RDzhWm0rTRf5"
+                    },
+                    {
+                        "name": "Angelo_s [Interpolation Summary].pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1reu3AByRAt-4yT0MPLCV-Dd1zk7ZQBnE"
+                    }
+                ],
+                "past": [
+                    {
+                        "name": "NUMERICAL ANALYSIS_ COMPLETE PASCO_T1.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1Qvji97vw42TiS6rcKQAaeZsV_ivEkL7V"
+                    },
+                    {
+                        "name": "Numerical Analysis VCLASS Pasco.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1yzuxjRd2wrHpjEbOcgbK7q-AeasMSErs"
+                    },
+                    {
+                        "name": "300 Solved-numerical Problems.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1umhFMkPI4Z34-cBpoyXRbGxGWvQnbI0p"
+                    },
+                    {
+                        "name": "Numerical.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1XzoUgG76C1f8j8PqGkZlgSJc_dPVdmYz"
+                    },
+                    {
+                        "name": "Numerical_analysis.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1pHKZU3g84fM3RNlC9THdpEMbi1tyygrA"
+                    }
+                ],
+                "books": [],
+                "videos": []
+            },
+            "TE 353 (Random Variables & Stochastic...)": {
+                "slides": [
+                    {
+                        "name": "Lec 3 Some PDFs.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=11OG6YhGeKc1MK60Yj3ccOeIpYbuc2JMw"
+                    },
+                    {
+                        "name": "Lec 5 Random Process and Wide Sense Stationarity.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1IsLugWPl2Fk0tKya7m8rBKjZ6G5NeQWN"
+                    },
+                    {
+                        "name": "Lec 4 Transformation of RV and Rayleigh Fading Wireless Channel.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1PDhvXLLGc4Dtdb9UE_fvv1xsyKQUEefp"
+                    },
+                    {
+                        "name": "Lec 2 Random Variables and PDF.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=16HeHtjGxrcbO75IgAB__nS6fm828lYPd"
+                    },
+                    {
+                        "name": "Lec 1 Basics of probability.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1aQNYYqjYIQFdlh_s_BQ1J_LOe0avRyRr"
+                    },
+                    {
+                        "name": "Lec 0 Course Overview.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1vEY7LWnMNrzOAA9IqtEQUuprPVKu5pDJ"
+                    }
+                ],
+                "past": [
+                    {
+                        "name": "Stochastic passco 1.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1ioKHmACih7k8NpXJ9XomAUu4gNqM8ehC"
+                    },
+                    {
+                        "name": "Akekaduro 1887922.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1NX4z7CnmNuY7sq6b_h-y260gLGZw_LWe"
+                    },
+                    {
+                        "name": "lecture 3.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1xqkH14l5imCUmPdwYk29rLBqux_n2ldH"
+                    },
+                    {
+                        "name": "Random variable midsem.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1vCyDB8A2TweHkWX5mhfHIrRzoF4Cqwik"
+                    },
+                    {
+                        "name": "lecture 1&2 solutions.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1M8h2vWXu11tHUlrp_c-02yw0UjlJ51Dz"
+                    }
+                ],
+                "books": [
+                    {
+                        "name": "Introduction to Probability Models Sheldon M. Ross 9ed.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1chYvGLp5nWdMhPUvjk5P4DTvMA8XOr9R"
+                    },
+                    {
+                        "name": "Random Variables and Stochastic Processes.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1rsV5LyhEoDBFHwyLdCSIeeZy-tdQXE1q"
+                    }
+                ],
+                "videos": []
+            },
+            "TE 351 (Information Theory)": {
+                "slides": [
+                    {
+                        "name": "Lec 4 Fundamentals of Channel Coding.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=18vib8b7VBCkPJQddCzmDfwE88dRsgJuN"
+                    },
+                    {
+                        "name": "Lec 3 Source Coding.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1l0AciBCrpXi2sYFz_3xgNv_9sutO4xmv"
+                    },
+                    {
+                        "name": "Lec 2 Channel Capacity.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1SasGunpVeanFHeqfxkiAOdMIxTjgkCr-"
+                    },
+                    {
+                        "name": "Lec 0.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1RgeRBU1DXQRz1fYuPrrZwlxy8auBpPDs"
+                    },
+                    {
+                        "name": "Lec 1 Information and Entropy.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1zUTSoZl7UwwVnC3XUnykS3msBctpOANF"
+                    }
+                ],
+                "past": [
+                    {
+                        "name": "Info T passco 2.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1vpK0opPsBhZYEXyGcUdTNhq5pIs3c5Ei"
+                    },
+                    {
+                        "name": "Info T passco 1.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1PPqZH1fTF6-xSoh1wJEOKVq98eijYFkR"
+                    },
+                    {
+                        "name": "Akekaduro 1887922.docx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1s47x1RWGvayVfe1y4OSKz8COWR9jRUnR"
+                    },
+                    {
+                        "name": "Info T midsem '25.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1vBakFkIQi8qgPR_YoEiexzygXlpulWmj"
+                    },
+                    {
+                        "name": "Scanned Documents.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1w9tJd1pkvt_UvzL_zqC-6ZNXXASd5TX-"
+                    },
+                    {
+                        "name": "Quiz 3.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1ztP0TzvRMiW8LmYz7dbDxizZCn9l9bVI"
+                    }
+                ],
+                "books": [
+                    {
+                        "name": "Fundamentals of Information Theory.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1i61hMn02DWijlVQAas62pJoUY6riUtnq"
+                    },
+                    {
+                        "name": "Elements of Information Theory by Thomas M. Cover, Joy A. Thomas (z-lib.org).pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1SDt5oYFjow_AN1s5EOm8GraBAyuJy21t"
+                    },
+                    {
+                        "name": "Info T Ess.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1m6DUC2njVrDAMTMInldqAUbtForyUw-7"
+                    }
+                ],
+                "videos": []
+            },
+            "TE 357 (Optical Communication)": {
+                "slides": [
+                    {
+                        "name": "Compiled.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1dl92ZYH6aejsNMBX7u2Y47oTPrGEg5JM"
+                    },
+                    {
+                        "name": "TE357Lecture5-Photo Detectors-2025-Complete.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1iyQ25_KxU6VUKuxIeh6uikd3k4aQAyG1"
+                    },
+                    {
+                        "name": "TE357Lecture4-Light Sources-2025-Complete.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1o8n1Ajn303WYLcGHyLyWlkzpt-mIZQXJ"
+                    },
+                    {
+                        "name": "TE357Lecture6-Digital Links-2025-Complete.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1YREYyMS40thxWza5XincuQTEHyYSp-BV"
+                    },
+                    {
+                        "name": "TE357Lecture3-Optical fibers-2025-Complete.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1xx2agQLqDbok6GbMV_9_8tLdMvaV3445"
+                    },
+                    {
+                        "name": "TE357Lecture1-Introduction-2025.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1a9qae9FYARrKirsgWQHx8njCSxyfRjhX"
+                    },
+                    {
+                        "name": "TE357Lecture2-Physics of Light-2025.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1G7krjtSFUgxrFHzbh9Bna-vCGAQCQQ6u"
+                    }
+                ],
+                "past": [],
+                "books": [],
+                "videos": []
+            },
+            "TE 355 (Signals and Systems)": {
+                "slides": [
+                    {
+                        "name": "SIGNALS PROJECT GROUP 6.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1zeeJxPTu-seiVUbt5KFE81sIMWsUYxAV"
+                    },
+                    {
+                        "name": "PROJECT.docx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1JGxB4qxfDeac9u9h96BovUY65GB1oDmm"
+                    },
+                    {
+                        "name": "~$ROJECT.docx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1sVFa9JeCf9kmF2wNHZfMYnPPXIK33y1a"
+                    },
+                    {
+                        "name": "~WRL0003.tmp",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1twtIDxq-Dwtk_ILrqod8JlQmxWO9fp2Y"
+                    },
+                    {
+                        "name": "~$Lecture_12_Laplace Transform.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1L1SVHpyQirmtp3ugxxDV8mqT3n6R8s4J"
+                    },
+                    {
+                        "name": "~$Lecture [08] Fourier Series CT Signals.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1hYQOcUVAevIqFVddnigcG21mnGt_oHow"
+                    },
+                    {
+                        "name": "~$Lecture [09] Fourier Series DT Signals.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1R2dRezTy0UVOTorWNYlh-B0PCrTfgcht"
+                    },
+                    {
+                        "name": "Signals and systems.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1JP_3_RZ5NAkMCskXoGuPIG5ArtJdm2kf"
+                    },
+                    {
+                        "name": "Lecture_5_LTI_Systems_Conv.++Integral.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1JXaXcf2Kx_Rf0Szsf059T8Dx-diPdNwF"
+                    },
+                    {
+                        "name": "Lecture_13_Z_Transform.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1y-xZmFcTDP4LKmEu-ZrO7vyBHJNRH-dg"
+                    },
+                    {
+                        "name": "Lecture_12_Laplace Transform.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1u7MhTUUxHkF71Hngn7sn-tqBXApUGaXp"
+                    },
+                    {
+                        "name": "Lecture_4_LTI_Systems_Convolution Sum.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1c-4XzVcFCGG37f3i6xyYi0Hot57OPF9i"
+                    },
+                    {
+                        "name": "Lecture 3_Systems.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1lj4MyVa5Ly7fdaGt8q_oEV8s81sptsIv"
+                    },
+                    {
+                        "name": "Lecture 2_Signals and Systems.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1HD2hQxrma4CcG7Xyt7cMPRhPEZXDOfWG"
+                    },
+                    {
+                        "name": "Lecture 1_Mathematical_Review.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1OU8h84Zos-8uvO9Y-N0wb_PROgLviWXI"
+                    },
+                    {
+                        "name": "Introduction and Course Outline.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=12M2ZkRlaKk0j_lHHg5vTf8_c0RYhDOql"
+                    },
+                    {
+                        "name": "Lecture [06] Properties of LTI Systems.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1OLhZww-X-rktvIX-b2b2J8KbBjL7F-TW"
+                    },
+                    {
+                        "name": "Lecture [11] Fourier Transform_DT Signals.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1R4g8QmPuhCloyk_iZyknRgUaHn6m8Sxc"
+                    },
+                    {
+                        "name": "Lecture [10] Fourier Transform_CT Signals.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1ZNxjRTKa2tGgLBW5HxrEKo4AU-DwwDBO"
+                    },
+                    {
+                        "name": "Lecture [08] Fourier Series CT Signals.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1uqr6diCJLmdxY4Cg2psJdBEneh9iB53K"
+                    },
+                    {
+                        "name": "Lecture [09] Fourier Series DT Signals.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1xgO8RpaEAwnkINbQBV66LNLExgmbp8ji"
+                    },
+                    {
+                        "name": "Lecture [07] Causal LTI Systems.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1irXbiAS8D-J4wSZoAzE-AcLz-6khQhUs"
+                    }
+                ],
+                "past": [
+                    {
+                        "name": "photo_21_2024-04-17_10-02-29.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=16DNpKoITR8w0tmBO9bCbBoBJlCsVhtIo"
+                    },
+                    {
+                        "name": "photo_10_2024-04-17_10-02-29.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=140p6IhSYQgiiZeJ4TPYJMTb8xY0i7ZB8"
+                    },
+                    {
+                        "name": "photo_6_2024-04-17_10-02-29.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1V1jSy5tVCpyseeujb1WbhVsCeNg5em_x"
+                    },
+                    {
+                        "name": "photo_15_2024-04-17_10-02-29.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1g-p4LiEy6nAwAU7Nzp7YB-wb2_NwGffV"
+                    },
+                    {
+                        "name": "photo_13_2024-04-17_10-02-29.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1Oa40IMwsKT63MILALx2a_yNWcgwb5CFs"
+                    },
+                    {
+                        "name": "photo_16_2024-04-17_10-02-29.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1dlptdg55DhG6uhUqLB46-YWtr81Eya3O"
+                    },
+                    {
+                        "name": "photo_19_2024-04-17_10-02-29.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1FwxMdJwprYb50vXVvg_MTiOQgnqUy487"
+                    },
+                    {
+                        "name": "photo_5_2024-04-17_10-02-29.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=17oqdeeFU6tOTZTIl4arE2kaiuQMrD5G5"
+                    },
+                    {
+                        "name": "photo_2_2024-04-17_10-02-29.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1GQoF83OyD0YREnpiIv3-7Oset1laXBVa"
+                    },
+                    {
+                        "name": "photo_4_2024-04-17_10-02-29.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=16efqFZyFGX5lnfVrGRC-9OzA6W7m4ixj"
+                    },
+                    {
+                        "name": "photo_11_2024-04-17_10-02-29.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1jMf3N4xQNSJoJnrKpDMZH1eUW5LpoU7v"
+                    },
+                    {
+                        "name": "photo_1_2024-04-17_10-02-29.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1cCmvH6PaCUNo7pXtY9MBC5mhtqEoPyP1"
+                    },
+                    {
+                        "name": "photo_22_2024-04-17_10-02-29.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1cKSgyzdltPyaMo3DrODcRYGW7Pi3uTyb"
+                    },
+                    {
+                        "name": "photo_7_2024-04-17_10-02-29.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=12j1lrsbARlIrEg_7Qk1km9uiiKtdN4z-"
+                    },
+                    {
+                        "name": "photo_17_2024-04-17_10-02-29.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1P1nU5keYl2FsVSYCsV8t0nmggNcRLFuz"
+                    },
+                    {
+                        "name": "photo_20_2024-04-17_10-02-29.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1yLG4d2bSl9PVD6FHmMo6PWaIPFNMOeLF"
+                    },
+                    {
+                        "name": "photo_9_2024-04-17_10-02-29.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=13V0gsndbbgfQNaqbAjyEOXSE6TIAgsZm"
+                    },
+                    {
+                        "name": "photo_3_2024-04-17_10-02-29.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1h78w-kn0OaPfHbLaYkMicB1h0F8s9FhS"
+                    },
+                    {
+                        "name": "photo_8_2024-04-17_10-02-29.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1i1xUjJW9LqZvNzHdip4SKkK4QA2ep_GD"
+                    },
+                    {
+                        "name": "photo_12_2024-04-17_10-02-29.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1LKamvjWB4BEzIP6k6BJQuyu6k_el4olT"
+                    },
+                    {
+                        "name": "photo_14_2024-04-17_10-02-29.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=13TKM6W95SEUBN8yDwkFwvueCWm9x0P_k"
+                    },
+                    {
+                        "name": "photo_18_2024-04-17_10-02-29.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1Kdx_r2_c53RsQg3f76ftFB9c_E2eE4K-"
+                    },
+                    {
+                        "name": "WhatsApp Image 2024-02-26 at 9.31.50 PM (3).jpeg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1GYeHJSjhavz6FFACz-lbdizjDfCNCAd5"
+                    },
+                    {
+                        "name": "WhatsApp Image 2024-02-26 at 9.31.50 PM.jpeg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1dGrHq_eXVJBtiu9ayTwLul9IGbrwr11F"
+                    },
+                    {
+                        "name": "WhatsApp Image 2024-02-26 at 9.31.49 PM (1).jpeg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1zOSJNXRHBWNXCecs1C5DKLX0n9D-oHUR"
+                    },
+                    {
+                        "name": "WhatsApp Image 2024-02-26 at 9.31.46 PM.jpeg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=17SfezD496iCkfnm3dxR_Zb1nk0L4eN_4"
+                    },
+                    {
+                        "name": "WhatsApp Image 2024-02-26 at 9.31.50 PM (2).jpeg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1WV5srK25O6YuwqdFtDMYt2sVNjCi-_j8"
+                    },
+                    {
+                        "name": "WhatsApp Image 2024-02-26 at 9.31.48 PM (1).jpeg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1fLb-y-coPqCfNdQNy1BSgFEfOglRssvX"
+                    },
+                    {
+                        "name": "WhatsApp Image 2024-02-26 at 9.31.49 PM.jpeg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1-hnMbeqYMAoJFjIweRnZjLPgbUMST4ir"
+                    },
+                    {
+                        "name": "WhatsApp Image 2024-02-26 at 9.31.45 PM.jpeg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1Jrd-ivPpcCMk9d3_uVUCP83ott6VGsZv"
+                    },
+                    {
+                        "name": "WhatsApp Image 2024-02-26 at 9.31.47 PM.jpeg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1V7shTUQ1E7gk0fspNbXcymcibEa4Iksm"
+                    },
+                    {
+                        "name": "WhatsApp Image 2024-02-26 at 9.31.52 PM.jpeg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1cY6MY7Z1uJmFxMtKOw_NkwomuhGFQF_P"
+                    },
+                    {
+                        "name": "WhatsApp Image 2024-02-26 at 9.31.47 PM (1).jpeg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1fosz3OYb0PKQcOEFGX6r1JDtmdvTPF4M"
+                    },
+                    {
+                        "name": "WhatsApp Image 2024-02-26 at 9.31.48 PM.jpeg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1fmra-FN7rSQSLEC1049QL7aGcP7yrb-0"
+                    },
+                    {
+                        "name": "WhatsApp Image 2024-02-26 at 9.31.51 PM.jpeg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1dugWcrrSlUb4MQV00vnBD44MjncuuuVe"
+                    },
+                    {
+                        "name": "WhatsApp Image 2024-02-26 at 9.31.51 PM (1).jpeg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1j3GIYouzhDT5uXUfpD5u0X_nswfmwgRt"
+                    },
+                    {
+                        "name": "WhatsApp Image 2024-02-26 at 9.31.50 PM (1).jpeg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1R7IslKrxTnFTA9co107ZQwycVsCwUXLW"
+                    },
+                    {
+                        "name": "WhatsApp Image 2024-02-26 at 9.31.46 PM (1).jpeg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1Nfp-L1LGXzB1tSzjGcdAqIEEUaUMa6XS"
+                    },
+                    {
+                        "name": "WhatsApp Image 2024-02-26 at 9.31.17 PM.jpeg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1ZxNiLZqSc_WmrXCNcNxb1W5OEl48K3Af"
+                    },
+                    {
+                        "name": "WhatsApp Image 2024-02-26 at 9.31.44 PM.jpeg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1DWMF_y5evipitVuLdXviXb4Sr7ocaLqB"
+                    },
+                    {
+                        "name": "WhatsApp Image 2024-02-26 at 9.31.15 PM (1).jpeg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1nc2cnZpklapn8SHA10fuyk-6trHk4oio"
+                    },
+                    {
+                        "name": "WhatsApp Image 2024-02-26 at 9.31.18 PM.jpeg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1DsI4M2AvHao_HfYI7MG6nLYtvX6P8WGd"
+                    },
+                    {
+                        "name": "WhatsApp Image 2024-02-26 at 9.31.13 PM.jpeg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1O4m0LvKFOPTYiCQMfDFOHAVwHjpkXSuq"
+                    },
+                    {
+                        "name": "WhatsApp Image 2024-02-26 at 9.31.15 PM.jpeg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1XeRDWjt7LdfGe0m9z0--pqYrKjKp2LyA"
+                    },
+                    {
+                        "name": "WhatsApp Image 2024-02-26 at 9.31.08 PM (1).jpeg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1Al4ETWk-KeYHsipPI5XMlVT3XgIGvQrA"
+                    },
+                    {
+                        "name": "WhatsApp Image 2024-02-26 at 9.31.42 PM.jpeg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1Kb4Xge_YOBGvkwF4U_2G8s8zg1j6os06"
+                    },
+                    {
+                        "name": "WhatsApp Image 2024-02-26 at 9.31.18 PM (2).jpeg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=143YqX_YYnG3XUwe1JIyvDhBL7fwRbeNs"
+                    },
+                    {
+                        "name": "WhatsApp Image 2024-02-26 at 9.31.20 PM.jpeg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1L6__G4kECHyyqfn6HbytkiKrCZXtTC0h"
+                    },
+                    {
+                        "name": "WhatsApp Image 2024-02-26 at 9.31.12 PM.jpeg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=13aveuO2ZCc1QQ34I-tZmSJ5pJlk6wl3a"
+                    },
+                    {
+                        "name": "WhatsApp Image 2024-02-26 at 9.31.10 PM (1).jpeg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1-KC8RB3D7Dt7pLuCV8T3QNkK-W5LJw6A"
+                    },
+                    {
+                        "name": "WhatsApp Image 2024-02-26 at 9.31.17 PM (1).jpeg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1_nhEEiR91WGDgqvtMN_j3K8LDq6hBDf_"
+                    },
+                    {
+                        "name": "WhatsApp Image 2024-02-26 at 9.31.19 PM.jpeg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1bqEZhig2_zpr_nSiMksFEn0-4UIkTiJD"
+                    },
+                    {
+                        "name": "WhatsApp Image 2024-02-26 at 9.31.12 PM (1).jpeg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1yUqNeFff6hjWzkp9rRumwD6dV8q0Z0FD"
+                    },
+                    {
+                        "name": "WhatsApp Image 2024-02-26 at 9.31.11 PM.jpeg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1BVXBSZAi_QtvJ0PGUnHfmU_yfpa3wBVv"
+                    },
+                    {
+                        "name": "WhatsApp Image 2024-02-26 at 9.31.10 PM (3).jpeg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1aoughjqTjfvglkFZtLwUQB1xCmeHRsS0"
+                    },
+                    {
+                        "name": "WhatsApp Image 2024-02-26 at 9.31.19 PM (1).jpeg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1gAGCIGjkKkonvn_6g4NkaxRv3E0TqIXO"
+                    },
+                    {
+                        "name": "WhatsApp Image 2024-02-26 at 9.31.18 PM (1).jpeg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1RVZNXH6ffslmFgmY-ES-3meNFmhxD7vY"
+                    },
+                    {
+                        "name": "WhatsApp Image 2024-02-26 at 9.31.10 PM.jpeg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=14em3z2ZygNGuE9zwSaAJ7PAr5dCtjh22"
+                    },
+                    {
+                        "name": "WhatsApp Image 2024-02-26 at 9.31.10 PM (2).jpeg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1rYTOQ2tBXTKKrPFb0HbKlcU-WdpCkJkD"
+                    },
+                    {
+                        "name": "WhatsApp Image 2024-02-26 at 9.31.44 PM (1).jpeg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1t11BEKk_6W09eljJDVEPi0-zY-Hc3SK2"
+                    },
+                    {
+                        "name": "WhatsApp Image 2024-02-26 at 9.31.02 PM.jpeg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1LOKGCl-7S9oSLEydvTfqjHAFE7Iihj1B"
+                    },
+                    {
+                        "name": "WhatsApp Image 2024-02-26 at 9.31.08 PM.jpeg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1uAchseRX6hmeLvyzospXakgNJ3EZ4Fgr"
+                    },
+                    {
+                        "name": "WhatsApp Image 2024-02-26 at 9.31.02 PM (1).jpeg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1wtD85KxqjbN_GOIHStVnjtPk65P6WWSa"
+                    },
+                    {
+                        "name": "WhatsApp Image 2024-02-26 at 9.31.07 PM.jpeg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1E0fughZOG8TGfeX3vJDJiMGDinWCFdGZ"
+                    },
+                    {
+                        "name": "WhatsApp Image 2024-02-26 at 9.30.59 PM.jpeg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1cg_63PuHGs2qgg4476WkaUeIK6J0H_Ck"
+                    },
+                    {
+                        "name": "WhatsApp Image 2024-02-26 at 9.31.05 PM.jpeg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1f_BNyGT14ooeygZytD-ntJ-crLM8WCPO"
+                    },
+                    {
+                        "name": "WhatsApp Image 2024-02-26 at 9.31.01 PM.jpeg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1nWoHRHYBn0xoXU42EzJssCgyXqzFf7ri"
+                    },
+                    {
+                        "name": "WhatsApp Image 2024-02-26 at 9.31.02 PM (2).jpeg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1kwWDIz7EwKBWXbjNrA4qIqo09oN4HzsT"
+                    },
+                    {
+                        "name": "WhatsApp Image 2024-02-26 at 9.31.01 PM (1).jpeg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1XE0PgrIhYnzw2vTG3VXNjP6Z5RW-TUdd"
+                    },
+                    {
+                        "name": "WhatsApp Image 2024-02-26 at 9.31.03 PM.jpeg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1Kfft3Cj3TpFEFQVBAzZPIRzmK73G5P1D"
+                    },
+                    {
+                        "name": "WhatsApp Image 2024-02-26 at 9.31.04 PM.jpeg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1G12CjdQy_5qtKDMi2hL26JyNUyEbSP3s"
+                    },
+                    {
+                        "name": "WhatsApp Image 2024-02-26 at 9.30.26 PM (1).jpeg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1tf9BS_utKo4ESQbzZD4xhtxcD4TBfNZT"
+                    },
+                    {
+                        "name": "WhatsApp Image 2024-02-26 at 9.30.26 PM.jpeg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1mdYL4wOHSRJ5RSeoMJqdRr9J5282Hah_"
+                    },
+                    {
+                        "name": "WhatsApp Image 2024-02-26 at 9.30.25 PM (2).jpeg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1AF9dBTxs97vkv1syIMe9kSHk2VXFpZ4w"
+                    },
+                    {
+                        "name": "WhatsApp Image 2024-02-26 at 9.30.24 PM (3).jpeg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1GmntIC-S6T4Sv85M4Q6mcjHRwHDIYpvB"
+                    },
+                    {
+                        "name": "WhatsApp Image 2024-02-26 at 9.30.23 PM.jpeg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1JM772AhyksU-J5-wBksD26bLouQJLncK"
+                    },
+                    {
+                        "name": "WhatsApp Image 2024-02-26 at 9.30.25 PM.jpeg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1K6ebDbB1p8e4POpp-Dh_ZW3o0W1fiSQt"
+                    },
+                    {
+                        "name": "WhatsApp Image 2024-02-26 at 9.30.24 PM (1).jpeg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1XiLkC_KpAexzIzsAvmQGJgZUSC-EAGzt"
+                    },
+                    {
+                        "name": "WhatsApp Image 2024-02-26 at 9.30.22 PM.jpeg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1mZuXynEvbgQk4f3NYZm3t7aL3VKcJkM7"
+                    },
+                    {
+                        "name": "WhatsApp Image 2024-02-26 at 9.30.23 PM (1).jpeg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1EMmS4a4PbkUGMoCfHyUnDTp8ddETQTj7"
+                    },
+                    {
+                        "name": "WhatsApp Image 2024-02-26 at 9.30.22 PM (1).jpeg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1SVEM3l5iIfTmkRClCKaF4jcXC7Ib6OP8"
+                    },
+                    {
+                        "name": "WhatsApp Image 2024-02-26 at 9.30.24 PM.jpeg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=106jr0qgLo8mAI-0M1gfcTpuaS5ZVZ0_e"
+                    },
+                    {
+                        "name": "WhatsApp Image 2024-02-26 at 9.30.25 PM (1).jpeg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1QpmNUnMbFEu24e9f5NPO0uDlJ3mNgqJw"
+                    },
+                    {
+                        "name": "WhatsApp Image 2024-02-26 at 9.30.24 PM (2).jpeg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1nejqo6LQy75eTvdlkncZX3bUeLSEc9x8"
+                    },
+                    {
+                        "name": "WhatsApp Image 2024-02-26 at 9.14.42 PM (1).jpeg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1xIi7Wq_1uOWE6vcnw7gknISWmzU6JRxq"
+                    },
+                    {
+                        "name": "WhatsApp Image 2024-02-26 at 9.14.42 PM.jpeg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1WnNiyZZqcme4RrybJxt__tvn0JHFeVnW"
+                    },
+                    {
+                        "name": "WhatsApp Image 2024-02-26 at 7.20.48 PM (1).jpeg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=10UdlrhzJy98LKY9iVOcehgA8Ito3OKzu"
+                    },
+                    {
+                        "name": "WhatsApp Image 2024-02-26 at 7.20.47 PM (1).jpeg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=15qUCqhC-JFIPcwv5z3SQsv06I9zNrqKc"
+                    },
+                    {
+                        "name": "WhatsApp Image 2024-02-26 at 7.20.45 PM (1).jpeg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1Wh3INIfcisHJwj6ogJQ9bBBkHUrTEpFl"
+                    },
+                    {
+                        "name": "WhatsApp Image 2024-02-26 at 7.20.48 PM.jpeg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1Esmf21GQL0SSQC79Pa5O4gkHbzz0Vqwi"
+                    },
+                    {
+                        "name": "WhatsApp Image 2024-02-26 at 7.20.47 PM.jpeg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=11ES12iflnNSxVqq6TeBlw5BD71vHx5R0"
+                    },
+                    {
+                        "name": "WhatsApp Image 2024-02-26 at 7.20.44 PM.jpeg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1u6F46PrvAtPVr0DyD6ZnLO-3XqVFrC4y"
+                    },
+                    {
+                        "name": "WhatsApp Image 2024-02-26 at 7.20.43 PM (1).jpeg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1K-l-EkU-b0TE3bQ6GdwoCy-ojGPb9gh-"
+                    },
+                    {
+                        "name": "WhatsApp Image 2024-02-26 at 7.20.44 PM (1).jpeg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=10z3Q3WkoKTFwinwDuS1YJVyaeMjO0lph"
+                    },
+                    {
+                        "name": "WhatsApp Image 2024-02-26 at 7.20.45 PM.jpeg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1GubEwCaofAKoLa-hbjPU7roEyjmaDcO6"
+                    },
+                    {
+                        "name": "WhatsApp Image 2024-02-26 at 7.20.46 PM (1).jpeg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1yh9tcfnaHrhM7sma273Niffv-0KRW94f"
+                    },
+                    {
+                        "name": "WhatsApp Image 2024-02-26 at 7.20.46 PM.jpeg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1NeQVJnqxwUpD5HSbff38Y52GPcvycIuw"
+                    },
+                    {
+                        "name": "WhatsApp Image 2024-02-26 at 7.20.43 PM.jpeg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=19Y_4tjBuAMfmHeyNc77ilaAeD5l9sB2O"
+                    },
+                    {
+                        "name": "WhatsApp Image 2024-02-26 at 7.19.54 PM.jpeg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1fm0h3ese8RKc_lIa1c3_AJxw6BVILyb1"
+                    },
+                    {
+                        "name": "Linear Midsem 2022.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1jx6XK_BeSc8JQRcF8A38ROIMDvZaktfs"
+                    },
+                    {
+                        "name": "Signals 2021 midsem .pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1GdqRgwK4BPQ5n6TfXklvYCfbUgl0zD1T"
+                    },
+                    {
+                        "name": "Signals 2018 midsem.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=174Iq1uKPXCZA4BA9SHlheRrQ0DhPe2Tl"
+                    },
+                    {
+                        "name": "Signals 2022 midsem .pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1CQh68o2o8KQ4vajgqgMIINJcbfZkkhkY"
+                    },
+                    {
+                        "name": "Signals 2019 midsem .pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1SWCjpbGZzNqVQHQA1AlqUVE4U1pEoS6i"
+                    },
+                    {
+                        "name": "Signals Fill-in Questions.docx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=137gZdKIt9hWWWFSCKppDlGC7t_kptNOm"
+                    },
+                    {
+                        "name": "Signals Fill-in Questions (1).docx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1H0pnQwfAm7JMvmPb6kSR2JQpLnLw2qiC"
+                    },
+                    {
+                        "name": "answers.docx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1wydXzyVTqspenGDQSPgRO8CsIAqJ0o3G"
+                    },
+                    {
+                        "name": "Signal & Systems Passco.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=18NU0xeAIeWAPfQzyaeK2707OLyNybAdH"
+                    },
+                    {
+                        "name": "signals and systems.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1_kFmq8b3rOvjO1LD2nZ3EwD9bgW-qWAZ"
+                    },
+                    {
+                        "name": "Signals Objectives 2 Document .pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=13sbQDs3fCrkjhc2JDAQypQFfa40bIGQh"
+                    },
+                    {
+                        "name": "Signals Objectives 1 Document .pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1EKkb2GCRwhl5oTkKLkxb6L0KtloEwE2r"
+                    },
+                    {
+                        "name": "compiled sig.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=12n4MLiqva7XfUaveMDF2uCp4yNQRIpF4"
+                    },
+                    {
+                        "name": "signals soln.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1TyYDOPlK95goUl1Pyt4L5_d9GbFYJ5ez"
+                    },
+                    {
+                        "name": "Document 3.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1BwsdLE2rp-5SlrGUUo7u1YTOkUM3PKN8"
+                    }
+                ],
+                "books": [],
+                "videos": [
+                    {
+                        "name": "VID_20250227_081740_712.mp4",
+                        "download_link": "https://drive.google.com/uc?export=download&id=14iSBxWs3r3zAtK7ivgKMB1xWUpyiONZE"
+                    },
+                    {
+                        "name": "VID_20250227_081740_455.mp4",
+                        "download_link": "https://drive.google.com/uc?export=download&id=14720bTed3YuI6ICIACH8yhAcmfhkKk11"
+                    },
+                    {
+                        "name": "VID_20250227_081740_085.mp4",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1vIrhF0Z8XR_z793gn_DDLuu8N84g4C7R"
+                    },
+                    {
+                        "name": "VID_20250227_081732_879.mp4",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1uqZAuXfK7C_GABwNUVuI2KQzp2rRDVe8"
+                    },
+                    {
+                        "name": "VID_20250227_081732_912.mp4",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1UngtM4eBiHRqFkeeA-EDR29ls3xdOs7D"
+                    },
+                    {
+                        "name": "VID_20250227_081733_464.mp4",
+                        "download_link": "https://drive.google.com/uc?export=download&id=13yGPpJwvlvz9RZOB9nvDB40mGHDJG5dd"
+                    },
+                    {
+                        "name": "VID_20250227_081732_856.mp4",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1AXo6rej9VhzoNZ3cOfAj71Dy4TScDerR"
+                    },
+                    {
+                        "name": "VID_20250227_081733_189.mp4",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1GB5GbiIN0_29e1QDdWP7mbhhDCDAbX5Q"
+                    },
+                    {
+                        "name": "VID_20250227_081733_196.mp4",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1o1GbvJ-x05M1kmIOslBlfMxUBayo4xNa"
+                    },
+                    {
+                        "name": "VID_20250227_081732_942.mp4",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1hZCV_7Ud4g5ZP2V7NUvR6ZsfehpsC-Iu"
+                    },
+                    {
+                        "name": "VID_20250227_081733_307.mp4",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1Fpi528g5hVZbVn0duaXQp0hW5yqJaxyN"
+                    },
+                    {
+                        "name": "VID_20250227_081733_569.mp4",
+                        "download_link": "https://drive.google.com/uc?export=download&id=12rlq7CU4yszWIvLQH7S4m8VrNZ5vjlLr"
+                    },
+                    {
+                        "name": "VID_20250227_081656_552.mp4",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1mf5x860pZFA4lKt46jBlnntbWVOmxVH3"
+                    },
+                    {
+                        "name": "VID_20250227_081656_681.mp4",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1CjFHD93XGh2pawULybo0ufJUznV7r6m8"
+                    },
+                    {
+                        "name": "VID_20250227_081656_391.mp4",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1R-sJwf4_8Wzagm7-xJOqSthLaHXhHtE6"
+                    },
+                    {
+                        "name": "VID_20250227_081656_860.mp4",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1uEfp5k6mbzh5OoL9Sr8RzNlX8tjy7pWp"
+                    },
+                    {
+                        "name": "VID_20250227_081656_254.mp4",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1eLViCODTO103Zjlc0EyRaK5wBOakfMtY"
+                    },
+                    {
+                        "name": "VID_20250227_081656_302.mp4",
+                        "download_link": "https://drive.google.com/uc?export=download&id=17O2MYOgycH7qubvtIYBfZCObCJbpwfwf"
+                    },
+                    {
+                        "name": "VID_20250227_081656_248.mp4",
+                        "download_link": "https://drive.google.com/uc?export=download&id=10sLxdYUYN3_2s_ykXg48n7iI95gj6-W-"
+                    },
+                    {
+                        "name": "VID_20250227_081657_043.mp4",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1TH4RK0SK_fkYuhIl_3DwJ4zyWyEfOcOu"
+                    },
+                    {
+                        "name": "VID_20250227_081656_466.mp4",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1JoRtWycQEs8HxWguipRpIm-9TVgDwUl-"
+                    },
+                    {
+                        "name": "VID_20250227_081657_155.mp4",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1Zx5oU__nCPD9edu-AnV-8Xsj04TwZkDP"
+                    },
+                    {
+                        "name": "VID_20250227_081640_470.mp4",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1D6oYGW-VsAFJeq-wMjiTEbGNfCofhUQz"
+                    },
+                    {
+                        "name": "VID_20250227_081641_196.mp4",
+                        "download_link": "https://drive.google.com/uc?export=download&id=12uIj5GYjsiI96408Bxb1Yesu64A0asws"
+                    },
+                    {
+                        "name": "VID_20250227_081641_059.mp4",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1A7xMm1x5Cs30aShrrlhzqoYN3kjbDgh5"
+                    },
+                    {
+                        "name": "VID_20250227_081640_572.mp4",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1ujiC7KRUpz7mo37ibkpDZaTtyfnNffdq"
+                    },
+                    {
+                        "name": "VID_20250227_081640_660.mp4",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1mEjIX5i-NCGMazAnl1Lm1hG0qmiRQIaj"
+                    },
+                    {
+                        "name": "VID_20250227_081640_297.mp4",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1-X90l0owZhPaTgpNXYDz0_CU93S5Nzom"
+                    },
+                    {
+                        "name": "VID_20250227_081641_224.mp4",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1RgORlVxaAKzGIJhFo_keQtXOVUcVLeVh"
+                    },
+                    {
+                        "name": "VID_20250227_081640_602.mp4",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1valWZ9ij1iZOvHZV5usfJzhhjzl5FSEx"
+                    },
+                    {
+                        "name": "VID_20250227_081640_311.mp4",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1KyGQ1KpWEkIPlXkYmp-ZowHkbCh-cw9-"
+                    },
+                    {
+                        "name": "VID_20250227_081640_793.mp4",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1UX5hF_su-62qC2J0XwWD99a7YkMoPASY"
+                    },
+                    {
+                        "name": "VID_20250227_081627_729.mp4",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1zuUpC6AzZ1u7-oQKi6X-4t-D-u0Lh_48"
+                    },
+                    {
+                        "name": "VID_20250227_081627_536.mp4",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1aCDTq1iD2M4EZeVP34O-vvj04Dnw3Ohz"
+                    },
+                    {
+                        "name": "VID_20250227_081627_726.mp4",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1v4Hi37hotmhMM2hDPVyBQQhMHi1Dyo9t"
+                    },
+                    {
+                        "name": "VID_20250227_081628_386.mp4",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1jv5fNfNxFGuin_BhpW-qjrDSsyNgGW4T"
+                    },
+                    {
+                        "name": "VID_20250227_081628_284.mp4",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1JneebfHP9pOFN6f6I23EqpOkJAfqygsM"
+                    },
+                    {
+                        "name": "VID_20250227_081628_259.mp4",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1l-tVu7UdXy6blszYsQLrxAkOlaIghJ-t"
+                    },
+                    {
+                        "name": "VID_20250227_081627_980.mp4",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1CEk3P5XWTrsh_-m-nzk66NBi8WuQ6tRy"
+                    },
+                    {
+                        "name": "VID_20250227_081628_486.mp4",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1HM0oMYpA-iESm3D2bvG7AQzkzupWG7jf"
+                    },
+                    {
+                        "name": "VID_20250227_081628_200.mp4",
+                        "download_link": "https://drive.google.com/uc?export=download&id=13wAB_risE50Ig2kBo9nfbbJr8TzCA7bY"
+                    },
+                    {
+                        "name": "VID_20250227_081627_954.mp4",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1JJiqW2KS0m9Ph79fvJ--I3tgvYKX5cH7"
+                    },
+                    {
+                        "name": "VID_20250227_081619_080.mp4",
+                        "download_link": "https://drive.google.com/uc?export=download&id=17DSQ9BgM65qPI0KKGIvbfKOEtXcZ_Fyz"
+                    },
+                    {
+                        "name": "VID_20250227_081619_204.mp4",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1LU6V8r5FwLKzsxLZrz_7HIm5lRki3Aui"
+                    },
+                    {
+                        "name": "VID_20250227_081619_799.mp4",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1tUBVIxv0zGaoMF3zEVHmK1i_7zqxTPJ_"
+                    },
+                    {
+                        "name": "VID_20250227_081557_780.mp4",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1rMBsf2-QML-bTUq8ZWXkEx7AEaemAW2R"
+                    },
+                    {
+                        "name": "VID_20250227_081557_595.mp4",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1cM1i50Li3KcgA9Pv3IwT3S4H-ZKRi0Vm"
+                    },
+                    {
+                        "name": "VID_20250227_081557_834.mp4",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1MASMZLhAnJu49PXtCviLgJlVDLbAWJi7"
+                    }
+                ]
+            }
+        },
+        "2": {
+            "TE 354 (Antenna Theory and Design)": {
+                "slides": [
+                    {
+                        "name": "LOG PERIODIC ANTENNA.png",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1k8YBgw0EV-83mRW5--oR7kZ3DClJsCDh"
+                    },
+                    {
+                        "name": "TE 372 ANTENNA THEORY & DESIGN.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1WT1drTX_s5mdUn0Hi44UIU0KRqnq1Pjm"
+                    },
+                    {
+                        "name": "TE 372 ANTENNA THEORY & DESIGN.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1Miq6Aa9jUM00WOQMEEgnccyXQQii93Og"
+                    }
+                ],
+                "past": [],
+                "books": [],
+                "videos": []
+            },
+            "TE 356 (Switching Communication Principles)": {
+                "slides": [
+                    {
+                        "name": "TE384_Lecture 2b_Softswitch.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1dffpNzOrR5ceNW-wbZ5mVKWnixj9sRdn"
+                    },
+                    {
+                        "name": "Will it come.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=12qDn9wR14Goj5m6KHIgDO4XdacE01xV3"
+                    },
+                    {
+                        "name": "TE 384 Lecture_4_Teletraffic.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=12At_-MWTEG5AzslLU-6IV8MNDsvbC_-f"
+                    },
+                    {
+                        "name": "_Erlang_B_Table.xls",
+                        "download_link": "https://drive.google.com/uc?export=download&id=16CyaMeCdp_Cm1bQ9X59r5woHK2uWzYnz"
+                    },
+                    {
+                        "name": "TE384_Lecture_7_Multiple access  techniques.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1nw1axboVrSkaWKuO18hHDKzYukVQJ7H9"
+                    },
+                    {
+                        "name": "TE384_Lecture_8_Signaling.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1NVjHx34WfFmhn9q-Fx2TZozd1C5K0rQU"
+                    },
+                    {
+                        "name": "TE384_LECTURE2_SWITCHING  SYSTEMS.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1IpYn4oR-IhH1B7NZPv8sbBJkCbxK-cWl"
+                    },
+                    {
+                        "name": "TE384_Lecture  3_SwitchingTechniques.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1iozc3PPTFSGJXTUZhlZOu6AGIUHMFCbf"
+                    },
+                    {
+                        "name": "TE 384 Lecture_4_Teletraffic.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1n2hZFA5E6HlHU9F-LbwtW4HBMafYt41A"
+                    },
+                    {
+                        "name": "TE384_Lecture  1_Telecom_Networks.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1cVnJ8JRBHJXO_KmyGnEMkXPgl-4pmPcE"
+                    },
+                    {
+                        "name": "TE  384_Course_Introduction_2016-2017.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=17vpToNACK-vbp3it_qjpGw2tafvTKzJM"
+                    },
+                    {
+                        "name": "TE384_Lecture_8_Signaling.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1z0_um2aCIWYx4aOLwy0iNkTxaYYlbcqm"
+                    },
+                    {
+                        "name": "TE384_Lecture_7_Multiple access  techniques.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1XkMcbRHKSttXZOPSsrg4DjlSFskzFTUe"
+                    },
+                    {
+                        "name": "_Erlang_B_Table.xls",
+                        "download_link": "https://drive.google.com/uc?export=download&id=13jDhq7GUqqbXb-MXHUPmMrJHzIslRmnY"
+                    },
+                    {
+                        "name": "TE384_Lecture 4_Teletraffic.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1FOoyebm18C9qpx5oMt9mjsQj1BO8_Yk0"
+                    },
+                    {
+                        "name": "TE384_Lecture  3_SwitchingTechniques.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1uYfwdp6IAbyvvhvUZUJfikJ8qvngBTGM"
+                    },
+                    {
+                        "name": "TE384_Lecture  2_Switching  Systems.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1VMgUtD4Qcg4Xp44g9D25XvpuAeKaB5sy"
+                    },
+                    {
+                        "name": "TE384_Lecture  1_Telecom_Networks.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1fZZPRFSSqPftG8KhsdLMnKtPCyFmTxDS"
+                    },
+                    {
+                        "name": "TE  384_Course_Introduction_2016-2017.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=10t-aeNVHJmgNmOK91dAphiLU_rU0kVW5"
+                    },
+                    {
+                        "name": "TE384_Lecture  2b_Softswitch.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1QdoM3rhDQ_loac40YiwVYUgY-NUw1ShV"
+                    },
+                    {
+                        "name": "SWITCHING SYSTEMS.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1wJXVNGEPV-YPsF-sySKB8-3XHesrFGyP"
+                    },
+                    {
+                        "name": "telehook.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1WrHQYf8Ebs6uVU_pxA3B18fyy0haOpmM"
+                    },
+                    {
+                        "name": "Signalling in telecommunication Networks.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1i5xxtGIc-qBRA-oOY7PYKal3LSCoXcSC"
+                    },
+                    {
+                        "name": "Fundamentals-of-Telecommunications.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=16xHsgk9WyE06TelnPLcxspr7VcSLnlUh"
+                    },
+                    {
+                        "name": "Bellamy - Digital Telephony (2000) (3rd.Ed)_2.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1pBT06mfXR6-5W1JcoMRsGBuDpprhdpBY"
+                    },
+                    {
+                        "name": "Digital Switching Systems(System Reliability and Analysis).pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1R0rRF19y9KtzMoPRVx0U18WncBcdNDla"
+                    },
+                    {
+                        "name": "gsm.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1_g7FF-IpYM3m4i5LbyK9ysDHxagtPLpX"
+                    },
+                    {
+                        "name": "lecture8.circuitswitching.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1V6A-jpIz3Kyo4CysD_AiJPrhEhFwBDB4"
+                    },
+                    {
+                        "name": "812241950X Switching and Networks.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1u7Vhdl0_YjJbMV6Sy7nSxprVJ_78M3G8"
+                    },
+                    {
+                        "name": "0471451339.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1Ef5xXiun4GbWuJjstM-BOav3NoB2X7Qd"
+                    },
+                    {
+                        "name": "Lecture 6 Multiple Access Technques.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=17FcXJZepc3YP6xrKfuHHIR9s_lEpWszi"
+                    },
+                    {
+                        "name": "TE384_Lecture 3_SwitchingTechniques(5).pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=11U3sh8u_OBkS3oP3CLRKhdh4RCkSdD5Z"
+                    },
+                    {
+                        "name": "TE384_Lecture 1_Telecom_Networks.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=12E_i0y7HiGKR_JzgfEIUxr1hfUO5IWCo"
+                    },
+                    {
+                        "name": "TE384_Lecture 3_SwitchingTechniques(5).pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1flaQ2aeNdR_gGY1el7TkeMKxRs1FLPyB"
+                    },
+                    {
+                        "name": "TE 384 Lecture_4_Teletraffic.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1R-XwQfOXpsqPl3Knf1W6FuSCa0DwdtL9"
+                    },
+                    {
+                        "name": "TE384_Softswitch_Lecture_Notes.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1k0LGkRgfX6Jws7cZDLvnEXgghJOT5woH"
+                    },
+                    {
+                        "name": "~$TE 384 Lecture_4_Teletraffic.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1Fbm9ziuxfwmL3yrYAwroYeOQVFbyqFFP"
+                    },
+                    {
+                        "name": "~$TE384_Lecture 1_Telecom_Networks.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1N4rubOejCq_vrcsuv9gL__jrGIKd-sfR"
+                    },
+                    {
+                        "name": "~$TE384_Lecture 4_Teletraffic_Part 1.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=13hhQWdMXPvddFCiJyhavqWi__Kz-2vWT"
+                    },
+                    {
+                        "name": "~$TE384_Lecture 3_SwitchingTechniques(5).pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1AsZEmppnsWwmhtsqD4IpoXWwUd9JNAQT"
+                    },
+                    {
+                        "name": "~$TE384_Lecture 1_Telecom_Networks [Autosaved].pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1onD4_-EKV7TnhhbU3lGZ6yLBL3hcCqj7"
+                    },
+                    {
+                        "name": "TE384_Lecture 1_Telecom_Networks [Autosaved].pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1QcCUTTr3tvFi7XuDFsRX-36yZZNWFJ_9"
+                    },
+                    {
+                        "name": "TE384_Softswitch_Lecture_Notes.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1U5Q5XenX_x2R3eeAekkfxbi6W1zdWx_G"
+                    },
+                    {
+                        "name": "TE384_Lecture_6_Multiple access techniques.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1jNHC2WcnpbgEPZz8VROAVQJBhC1VQbge"
+                    },
+                    {
+                        "name": "TE384_Softswitch_Lecture_Notes(1).pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1oo-p1Cjk1r5o_TUgcIHyXRAiuOWMXQff"
+                    },
+                    {
+                        "name": "TE384_Lecture 4_Teletraffic_Part 1.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1GOo8uZZYe-LnsTw3U1uAck1heDMYOuVK"
+                    },
+                    {
+                        "name": "TE384_Lecture4_Introduction_to_Teletraffic_Theory.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1I5OV1Nq-Nh9o8aKIHNNd4NywxxqOeLQy"
+                    },
+                    {
+                        "name": "TE384_Lecture 2_Switching_Systems.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1z_ejC9k7HuHBxQ4BB5Y4eJZfr7H6qmuZ"
+                    },
+                    {
+                        "name": "TE384_Lecture_5_Teletraffic_Part 2.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1dTQCBWDPYqwFrBTW083KvvF2znqiSyJP"
+                    },
+                    {
+                        "name": "TE384_Lecture 1_Telecom_Networks.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1n5r-NlQeHKBeG14awt1SCTBH9swQd1MM"
+                    },
+                    {
+                        "name": "Multiple Access Techniques.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1t6XQRbKP4IcgNiaiZcHCH3HgTLwePMEe"
+                    },
+                    {
+                        "name": "SWITCHING SYSTEMS.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1QwTXiYdWWTgNWTVEmn4izSa4yw3xc29I"
+                    },
+                    {
+                        "name": "TE 384_Course_Introduction.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1AheRUIZhNCLkFoLyWZbc02e8RGiCP_B8"
+                    },
+                    {
+                        "name": "SWITCHING SYSTEMS.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1YEFgDAgCZ3Z6muFZhtq2I2IAzLwzfJ0f"
+                    },
+                    {
+                        "name": "TE 384 New.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1aP8Rek0G8ggI0m6l3zEGR15C0Lin8TKP"
+                    },
+                    {
+                        "name": "STORED PROGRAM CONTROL (SPC) 1.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=16OwgX_05KvpoKy3CEd4je_Gc8w7FLzGJ"
+                    },
+                    {
+                        "name": "TE 384 Lecture_4_Teletraffic.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1fU4Ck_Znc7n5UPKyujXyFPxFu5bT_YgZ"
+                    },
+                    {
+                        "name": "Lecture_10_Signaling.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1SejLtu8xFfqOxJByhD117Y6Xop9wsV6c"
+                    },
+                    {
+                        "name": "Lecture 6 Multiple Access Technques.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1RFbahPj5Qd0DH6AA3tJvw2PKKdBuIMVb"
+                    },
+                    {
+                        "name": "IMG-20200304-WA0034.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1ls0z2b9r4qV31ZM9J0xx2wCwoZf4u-m3"
+                    },
+                    {
+                        "name": "IMG-20200304-WA0033.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1NqXiLxjRUBsFt_dSX_UCR_Ig1IC_KXE8"
+                    },
+                    {
+                        "name": "IMG-20200304-WA0032.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1LD-ltiOa7NeC_PvT3hxfEfJKu3GRNsag"
+                    },
+                    {
+                        "name": "IMG-20200304-WA0031.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1vvgf0nMrPvwGQpdjKrpx6trAeBJWjHcf"
+                    },
+                    {
+                        "name": "IMG-20200304-WA0030.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1u8fm95IUO_N212XJDKWcuTS46n3tztek"
+                    },
+                    {
+                        "name": "IMG-20200304-WA0029.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1iLu2WAnDmX0lfMsS2Tv1lEBmVIuxzGCM"
+                    },
+                    {
+                        "name": "IMG-20200304-WA0028.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1khtAOHc98_jsCqqtLQ923dQhztV4EpGM"
+                    },
+                    {
+                        "name": "IMG-20200304-WA0027.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1wnK-N_bkL7Y-FmN0G_4YefNYMCT8RRHf"
+                    },
+                    {
+                        "name": "IMG-20200304-WA0026.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1vrmZ5XevLr7JXcT1Rv9ZvXDRnVjVTkaJ"
+                    },
+                    {
+                        "name": "IMG-20200301-WA0007.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=19nUh_2WEzwiDkpglXQZSJxevfcwBWrp-"
+                    },
+                    {
+                        "name": "IMG-20200301-WA0008.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1Zo4Q1nqMLv8nRsPHufJ34j-Q4nMw1EkB"
+                    },
+                    {
+                        "name": "IMG-20200301-WA0006.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1jVrjBoOhAXRrR00kGepP9oznZrvVznhI"
+                    },
+                    {
+                        "name": "IMG-20200301-WA0005.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1bVh7lr_2AhQo6_ItamfyTpaY2Og4IQga"
+                    },
+                    {
+                        "name": "IMG-20200301-WA0004.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1ibDkB0aiVPZYleMRDvA6sUuY80X7tAdJ"
+                    },
+                    {
+                        "name": "IMG-20200301-WA0002.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1JqR9Pe-FFe0KrfBxML4BhXJ4-Uq-a993"
+                    },
+                    {
+                        "name": "IMG-20200301-WA0003.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1pXaev7opdVAsOD0f4RTXahmwmwrlvUDv"
+                    },
+                    {
+                        "name": "IMG-20200301-WA0001.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1bJ6A2wDIhwutxTL5IdjkbfgchHS7h8Dy"
+                    },
+                    {
+                        "name": "IMG-20200301-WA0000.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1TN1f--JX_k1L5DyB6T59B1xsexJEJei0"
+                    },
+                    {
+                        "name": "IMG-20200224-WA0013.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1mtw3whgfQBDA2us7Q9ijx0Viwze4Frph"
+                    },
+                    {
+                        "name": "IMG-20200224-WA0012.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1DblOy-5w5i5kc2i1gAblh1pSm9dF4-tW"
+                    },
+                    {
+                        "name": "IMG-20200224-WA0011.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=11J0tz5cG5rj1QlDC9uZxSMMSHIbfcjnt"
+                    },
+                    {
+                        "name": "IMG-20200224-WA0009.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1M7pflz_s2mxlerxYQFMj0MSU3WbiXBYA"
+                    },
+                    {
+                        "name": "IMG-20200224-WA0010.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1kzsCThf7bWYBJzf-K41wFzjPlTInrNJN"
+                    },
+                    {
+                        "name": "IMG-20150422-00547.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=17eyg7TKD86lvuL4OTqyrQQLUUEatqUpW"
+                    },
+                    {
+                        "name": "IMG-20160427-WA0005.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=17hEfnFEMfQ4H4UtvLGKtzlmn6echO1jX"
+                    },
+                    {
+                        "name": "IMG-20160427-WA0000.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1BtpGQ14Cext4Pzx1-eyU90EKepfUqA5y"
+                    },
+                    {
+                        "name": "IMG-20160427-WA0002.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1x3ucIjuquELIgQDAvnVBMVP8X6bh-PSx"
+                    },
+                    {
+                        "name": "IMG-20160427-WA0003.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1Mk5XEDSRO5AMKWD2SXBRfDwDGFWVqHA2"
+                    },
+                    {
+                        "name": "IMG-20160427-WA0001.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1len51sBpTpgsUADmNxbBSPKE52qxJCoM"
+                    },
+                    {
+                        "name": "IMG-20160427-WA0004.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1cDovr7KjhMWleL0hV5J7Fvqg8bcUCEBG"
+                    },
+                    {
+                        "name": "IMG-20150422-00539.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1BFGJhrgWjEqwY4O7VCNSoZkU-Vhde6Xn"
+                    },
+                    {
+                        "name": "IMG-20150422-00542.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1rZ3Gt3WauX4gPWvDPdumoALlszfggRqM"
+                    },
+                    {
+                        "name": "IMG-20150422-00540.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1dnzzz_XFo3NlwtQQyFydWx9cjKFKx9Ub"
+                    },
+                    {
+                        "name": "IMG-20150422-00545.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1hJ5yYHfC0a8mM2N03L2WwTO7_yRcjsQ0"
+                    },
+                    {
+                        "name": "IMG-20150422-00546.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1hWD7j9wVJ3hu6LM2tgWjmYjri6Icenpi"
+                    },
+                    {
+                        "name": "IMG-20150422-00544.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1XcLabNO-6m16woVUPQXABtSlKJnizGdL"
+                    },
+                    {
+                        "name": "IMG-20150422-00543.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1rmKPF4espXiz4df53uGPGvYKQZHDHHYi"
+                    },
+                    {
+                        "name": "IMG-20150422-00541.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1g6tU8Kf1Tj2MDYE-VTmbjAE1aPqaOPKf"
+                    },
+                    {
+                        "name": "IMG-20150422-00537.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1zhWOehGLLC7gjAhslO1e2LXAu7GyRnr9"
+                    },
+                    {
+                        "name": "IMG-20150330-00507.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1OIjdsivf_abahhaew6LNcBb2Q9URa0ra"
+                    },
+                    {
+                        "name": "IMG-20150330-00504.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=14VvJRqECUUTJXyOUzv9P38SAh_8Ba7PJ"
+                    },
+                    {
+                        "name": "IMG-20150422-00535.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=16YedURpTCoY7oT9YAcGvSQc0RHaoGBRH"
+                    },
+                    {
+                        "name": "IMG-20150330-00508.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1n2g5sHm8JkgKWFTpLi6p4EoLQY4AkRzW"
+                    },
+                    {
+                        "name": "IMG-20150422-00538.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1ZvYPvswuKwnnROpBmlsSs3CWK0brrhoL"
+                    },
+                    {
+                        "name": "IMG-20150330-00506.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1pfHyUpLo8DvPFMcVLwlhVPs0yOUAaKh2"
+                    },
+                    {
+                        "name": "IMG-20150422-00536.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1UekAMzYLfFzAjYyySShL26eu-OnkGaGS"
+                    },
+                    {
+                        "name": "IMG-20150330-00503.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1s_pAlsL6mfb0H8CpDL4aqnvNJrFFdHKM"
+                    },
+                    {
+                        "name": "IMG-20170509-WA0006.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1lcGEBtrAGzy3WPUbm5TyuOSeu_v0gEmQ"
+                    },
+                    {
+                        "name": "IMG-20170509-WA0009.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1IXjBEk5F2bzOR7NsacvgC2FBSaRypyfS"
+                    },
+                    {
+                        "name": "IMG-20170509-WA0008.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=10yH9kgIPGuBZfHFcjrqg2koe6-nniWlL"
+                    },
+                    {
+                        "name": "IMG-20170509-WA0010.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1gt5pPUs-0bW5HDYRKzIaKTEkmAuYaLym"
+                    },
+                    {
+                        "name": "IMG-20170509-WA0011.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1dtsKyaZBXXAhTNLTne0Ihk9XIuxFp-bP"
+                    },
+                    {
+                        "name": "IMG-20170509-WA0007.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1qp7e_Mviphb16HVR5aJl0pELxGKXfp6s"
+                    },
+                    {
+                        "name": "IMG-20170509-WA0005.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=11dDcWLBLrfrY468ZQuoMKcf9SvGTDQL8"
+                    },
+                    {
+                        "name": "IMG-20170509-WA0004.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1hcla5PKRmf3i10DaGWljes6UFmMYTVcf"
+                    },
+                    {
+                        "name": "IMG-20170509-WA0003.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1rCBrbRv06E3J9s03jM-ZFKuQ-8Qc4ZYw"
+                    },
+                    {
+                        "name": "IMG-20160217-WA0030.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1eMJJ8JE3Kv2vk9RWtLb4e6d9eAKKI-YE"
+                    },
+                    {
+                        "name": "IMG-20160217-WA0031.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1MhbXauK6qKLh_GHjG_yUIOLpTEka7p2m"
+                    },
+                    {
+                        "name": "IMG-20160217-WA0025.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=15dCAgsq6Be8BjvXU8EPjAkDg3Jcqz0Tm"
+                    },
+                    {
+                        "name": "IMG-20160217-WA0026.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1uAmSgORKNyGfi3esjx3vVOBIYpSyM8L2"
+                    },
+                    {
+                        "name": "IMG-20160217-WA0027.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1t5ikPJr_EsnCdzwprrhQTcmBil-tQit-"
+                    },
+                    {
+                        "name": "IMG-20160217-WA0019.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1AqYZQjEVX5eyFEM4g-yVf1wsWbMrE8jy"
+                    },
+                    {
+                        "name": "IMG-20160217-WA0021.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1r_TPeKo-xs_VKyDYHzN32qRlI4PuVaOA"
+                    },
+                    {
+                        "name": "IMG-20160217-WA0020.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1-T_BiEH2jhdKamWwDlbVHLvtMeNYWynk"
+                    },
+                    {
+                        "name": "IMG-20160217-WA0023.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=12t3D7zYmFBd6WsSvH_Vl95idn-S73Y_x"
+                    },
+                    {
+                        "name": "IMG-20160217-WA0024.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1SPrmquDghXgfUhQC7yt0qKDplBA-Bdcj"
+                    },
+                    {
+                        "name": "IMG-20160217-WA0022.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1NPtTpcweefzr44xr0lBuA72bHwKDRKAt"
+                    },
+                    {
+                        "name": "IMG-20160217-WA0018.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1ZsMQnSWQ5QlhrPYCMlxuetK4CC-jvkkm"
+                    },
+                    {
+                        "name": "IMG-20160217-WA0010.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1lMFyonRVYT8Q7-mKG2W3ng-bfBVH02vR"
+                    },
+                    {
+                        "name": "IMG-20160217-WA0011.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1xoc-7PgAMKjw5OjhdvPALPPhspdeKLug"
+                    },
+                    {
+                        "name": "IMG-20160217-WA0013.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=11JB-f_AmY4mQdECxr7zVzYFlSTT6er2q"
+                    },
+                    {
+                        "name": "IMG-20160217-WA0009.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1CA0EHhTlKyrU6xwFiekz-sA48p8bCOrd"
+                    },
+                    {
+                        "name": "IMG-20160217-WA0014.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1VH_v-wkHyO6XurV36LwMf-unpLvOCKko"
+                    },
+                    {
+                        "name": "IMG-20160217-WA0017.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1VTG2joKy4yQfjN3m-vLfruJAeqN4QNCm"
+                    },
+                    {
+                        "name": "IMG-20160217-WA0008.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1c73onYcJO9zoAOo1HtGtw3jJBW4e6pai"
+                    },
+                    {
+                        "name": "IMG-20160217-WA0016.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1XAvRW3DHHViNEr5tubxtrysqhejhCbT4"
+                    },
+                    {
+                        "name": "IMG-20160217-WA0015.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1FLYk6_jZvEmSV_m1yd-onpRtOjL8cNW8"
+                    },
+                    {
+                        "name": "IMG-20160217-WA0007.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1_OYxXMNz4_eewy4RuGvQEVKr4siHkbcf"
+                    },
+                    {
+                        "name": "IMG-20160215-WA0004.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1cCA2FL5AMUjE6UuJFeSIdgYQKAGRnLKF"
+                    },
+                    {
+                        "name": "IMG-20160215-WA0003.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=13augq_IWcWgoW18ytXaGJG-JV474_Vqz"
+                    },
+                    {
+                        "name": "IMG-20160217-WA0005.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1ls_Plx4CChpKg-FyLo9yiU6ZXqzGZZaB"
+                    },
+                    {
+                        "name": "IMG-20180510-WA0038.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1FlL8eSnSbqwbyuswO4xAtv2YdANmFimh"
+                    },
+                    {
+                        "name": "IMG-20180510-WA0036.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1VSPsS5TxKwVvCa50VOtyPB7kaUXLz3ye"
+                    },
+                    {
+                        "name": "IMG-20180510-WA0037.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1akl5dLztiHikSSkyxityopAyZL2KBPnT"
+                    },
+                    {
+                        "name": "IMG-20180510-WA0039.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1EWr8muTWe3O2taWAapnOyYQPOdTQpsE-"
+                    },
+                    {
+                        "name": "IMG-20180510-WA0040.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1N3oahkUKD-FTiMIY-1W1bwZwZqJx4Kyg"
+                    },
+                    {
+                        "name": "IMG-20180510-WA0041.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1aNF2AmMCxLDVQPMVoZrN_q1qv5KuZbve"
+                    },
+                    {
+                        "name": "IMG-20180510-WA0042.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1FByVvvScsQtBwfajWqH_BWejek8m-vyH"
+                    },
+                    {
+                        "name": "IMG-20180510-WA0033.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1mip9xSb1yyNTkwT94Xpfl8AlN_0h_gOl"
+                    },
+                    {
+                        "name": "IMG-20180510-WA0026.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1GRWuD7lCmhfw1ghE_XHh0a5FG5c_aUWg"
+                    },
+                    {
+                        "name": "IMG-20180510-WA0029.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1v_ek4f9KIwErt9C6_YuIoaYhAOIs5agB"
+                    },
+                    {
+                        "name": "IMG-20180510-WA0032.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1FJUVtx8RMz8Pu6j5wvoiwkclBuwmdugr"
+                    },
+                    {
+                        "name": "IMG-20180510-WA0031.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1h_PJv4PyoUiTitrw2qKxWc-MIrIom7Ky"
+                    },
+                    {
+                        "name": "IMG-20180510-WA0027.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1wEvcEyUQhn2TliOcUGY12tdEIUEub_xN"
+                    },
+                    {
+                        "name": "IMG-20180510-WA0030.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=135G1FPuH7ieOwxmhWetuEcr3o1er-EEH"
+                    },
+                    {
+                        "name": "IMG-20180510-WA0025.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1PBkV6wkNgeHAr5QsLOgJxZZ2ZZ2nZSy8"
+                    },
+                    {
+                        "name": "IMG-20180510-WA0028.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1md5_nc4z239uwMTak78qraKm-wvJ9P0r"
+                    },
+                    {
+                        "name": "IMG-20180510-WA0016.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1QSHjeVGrjUz_3VgJMPZDaNnLrv9fZRto"
+                    },
+                    {
+                        "name": "IMG-20180510-WA0022.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1MixTNGhRt8gPAByVORtFRXs59zR6iaGK"
+                    },
+                    {
+                        "name": "IMG-20180510-WA0015.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1011PpHr04joOeHiKXJLRf2lNDa-0Ow8l"
+                    },
+                    {
+                        "name": "IMG-20180510-WA0021.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1oNsQzaMu5Fy6txmClOsXzNw-Hz3RXoLP"
+                    },
+                    {
+                        "name": "IMG-20180510-WA0018.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1QimjkimE7mteP1NUyTy-ixZZYBBv07q-"
+                    },
+                    {
+                        "name": "IMG-20180510-WA0024.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1HdvY27Z3hSeMrWPP8OBGNkUeVtWBvM--"
+                    },
+                    {
+                        "name": "IMG-20180510-WA0019.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1iBTZtRMZEoDCfEpGaIh1Jvy0iEvXghXR"
+                    },
+                    {
+                        "name": "IMG-20180510-WA0023.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1im1qFfahs0Tj78S3MJ1jEqgdaV2RbGZ5"
+                    },
+                    {
+                        "name": "IMG-20180510-WA0017.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1CvomHQw7uAZYC6fK0HfDuff8RX5XtUOo"
+                    },
+                    {
+                        "name": "IMG-20180510-WA0020.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1qpg4LJYvku4tqP7iK1d6MDEnkbEQcSNM"
+                    },
+                    {
+                        "name": "IMG-20180510-WA0010.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1m50M4rB_qUMRDWoMt-M3Ebvs9Z4gyHRL"
+                    },
+                    {
+                        "name": "IMG-20180510-WA0011.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1Ip3nkXVZii7Edn4dojsOInvqATgrkOd2"
+                    },
+                    {
+                        "name": "IMG-20180510-WA0008.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1a1e4ONJKEiS8gbJig9t8_hX9Le-lKtM4"
+                    },
+                    {
+                        "name": "IMG-20180510-WA0014.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1a4Ss6b65TrxH9BKw1ft_g6_SQmsmZVHo"
+                    },
+                    {
+                        "name": "IMG-20180510-WA0013.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1b7Ay7xhJwcn0v_iFRd-c3WRHQkU-pzsc"
+                    },
+                    {
+                        "name": "IMG-20180510-WA0009.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1OOb3RDIkoW3-PZcCA2tliSVptUMFckgH"
+                    },
+                    {
+                        "name": "IMG-20180510-WA0012.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1lh_33kh_CxC_aluPhg0m3IHDkUJpIKBU"
+                    },
+                    {
+                        "name": "IMG-20180510-WA0006.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1MRabbofqEqqFoUJe0fLSNGDhbTnQ4RCl"
+                    },
+                    {
+                        "name": "IMG-20180510-WA0003.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1b6TWRjbcDBOkmg4mSsoQWZAoewFyNsGm"
+                    },
+                    {
+                        "name": "IMG-20180510-WA0005.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=15k_n0yFwpuFC-33l73FxSj0633QdnrEw"
+                    },
+                    {
+                        "name": "IMG-20180510-WA0007.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1cpUsGlwWPv97GXW1BEMJQ8IYRC88pxaz"
+                    },
+                    {
+                        "name": "IMG-20180510-WA0004.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1fwaE2Mfmo0RzqR8EfFLpE8N7lMaOPz-J"
+                    },
+                    {
+                        "name": "IMG-20180510-WA0002.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1pSfsiAoKJRdc3uP6BO6VFeFa6lSwKo2r"
+                    },
+                    {
+                        "name": "Signalling in telecommunication Networks.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1jOh8zjnCDDqn0Lr-duJz6PYvW513LuS-"
+                    },
+                    {
+                        "name": "Bellamy - Digital Telephony (2000) (3rd.Ed)_2.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1C9ZGE69DY3G0dIfWJbJM3wyza1Drd9r4"
+                    },
+                    {
+                        "name": "Digital Switching Systems(System Reliability and Analysis).pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1e0z_Yq4D71B6VhMziikFYcrejJLL6FZ8"
+                    },
+                    {
+                        "name": "812241950X Switching and Networks.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1Mm2rI2Qis63akooy6MdqcjN0xZ24d0TG"
+                    },
+                    {
+                        "name": "Past questions.zip",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1JpClge72DXmxbAfEp-aaXjo1lHP5BRu0"
+                    },
+                    {
+                        "name": "Lecture 6 Multiple Access Technques.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=105Jg1wy5RprLMflj_4EuijjOhSnWUCyU"
+                    },
+                    {
+                        "name": "Lecture_5_Signaling.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1OV6eBTTgzGd3VePwKeYmWXc7_27FR59-"
+                    },
+                    {
+                        "name": "Lec 4 Traffic Engineering-1.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1u5qsn1zatKRuw1dcLp4CzdL_glu54wEM"
+                    },
+                    {
+                        "name": "TE384_Lecture 3_SwitchingTechniques(5).pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=11F2Z4c8s497i3sf_dtnI5YDQzx5mczG0"
+                    },
+                    {
+                        "name": "TE384_Lecture 2b_Softswitch.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1Br556BCq6UR2YQ1DKS8ptiSqS6dBQZoo"
+                    },
+                    {
+                        "name": "~$TE 356_Course_Introduction_2024_2025.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=16AKljrwUBzhxT54bzERYgY-G3njWrvta"
+                    },
+                    {
+                        "name": "Lec 1 Overview of Telecommunication Networks.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1ZtGqHjTsrmaGPac8V1zkf4zDetEDY_mN"
+                    },
+                    {
+                        "name": "Lec 2 Switching Systems.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1MkdafLjlr7fEEKxLve_VcJ9BHwQL1JP5"
+                    },
+                    {
+                        "name": "TE356 LECTURE 2_SWITCHING SYSTEMS.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1vRGlR1TNehOaiXUzLcEdRc3HKmJqF-Yq"
+                    },
+                    {
+                        "name": "TE356_Lecture 1_Telecom_Networks.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1Y76twQkI7RZA_Rz056wECv2naCuo_ASh"
+                    },
+                    {
+                        "name": "TE356_Lecture 1_Telecom_Networks.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1d-_Xisv7PrUL6fkb56133KMw9GMjs7_e"
+                    },
+                    {
+                        "name": "TE 356_Course_Introduction_2024_2025.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1B3o6WJWsYcN2ETl7ljb3411-IzLirGPZ"
+                    }
+                ],
+                "past": [
+                    {
+                        "name": "MIDSEM PASSCO SWITCHING.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1y1njlnz7Qebt3voQgurAznb58tUEciiz"
+                    },
+                    {
+                        "name": "switching passco _ 2.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1lbXXb_GqMXFzM8naq-q2CDlRcQ1ElfPw"
+                    },
+                    {
+                        "name": "Switching Passco_1.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=139nvb_MtASJN0dFAkHEiO6aLQjYFa6pm"
+                    },
+                    {
+                        "name": "Switching Passco.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1rIY-A3-B5Fig1qtjk_F78RYjcVb467Jd"
+                    },
+                    {
+                        "name": "SWITCHING PASCO.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1BSX16pNXsIe4fGqhXCa7D8Nb4jmXhmGD"
+                    },
+                    {
+                        "name": "Switching in Engineering Sample Qs.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1yxg02rG75piBzxAqduj0fbaxwHPqcppv"
+                    }
+                ],
+                "books": [],
+                "videos": []
+            },
+            "TE 352 (Data Communication Principles)": {
+                "slides": [
+                    {
+                        "name": "Forouzan, Behrouz Data Communications and Network.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1NWzdo0dP6k-3ASNFYjdMNIvlRhAoOvq8"
+                    },
+                    {
+                        "name": "TE352Lecture7-2025-Complete.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1KnHH1kkFvcAwSkDdYrN-otUBDsEZmadv"
+                    },
+                    {
+                        "name": "TE352Lecture6-2025-Complete.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=176SiyZk3pjXJ_N6NJAt-ECbppHvpSmda"
+                    },
+                    {
+                        "name": "TE352Lecture5-2025-Complete.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1ATqwz75OBjgFpjP3z2c-dXk48vpF1p4S"
+                    },
+                    {
+                        "name": "midsem2021.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1x5N6prTS62gYppsE60YIDM6Skt7rw99i"
+                    },
+                    {
+                        "name": "WhatsApp Image 2025-07-10 at 08.52.46_d88d7a79.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1eRXpcdA-4FmhaMWCvASqFnvFA9XoiOHA"
+                    },
+                    {
+                        "name": "WhatsApp Image 2025-07-10 at 08.52.45_74cafc52.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=14PF-iEiqyt2ZpEsZ5l0ImHih32AGo4nj"
+                    },
+                    {
+                        "name": "TE352Lecture3-2025-Complete.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1Mj4oC0Jbb62dRGj9SpfShjfTiCTx5UpO"
+                    },
+                    {
+                        "name": "TE352Lecture4-2025-Complete.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1EI5kKPLyoHI4no_4DLRRuhDFLAZu64wf"
+                    },
+                    {
+                        "name": "TE352Lecture1-Introduction- 2025.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1PucuggQHNWUGfUJm3Gvxx87rXQjSXUFd"
+                    },
+                    {
+                        "name": "TE352Lecture2-2025-Complete.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1z-lf64nt1qF83s5HTauKGzVSPJHFe-ki"
+                    }
+                ],
+                "past": [],
+                "books": [],
+                "videos": []
+            },
+            "TE 374 (Computer Networking)": {
+                "slides": [
+                    {
+                        "name": "~$TE374_Lecture1_Overview.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1qfd8GsouEp9Dhcl-qHDf_qJ4Ftz9F5ZK"
+                    },
+                    {
+                        "name": "~$TE374_Lecture6_NetworkLayer_Control Plane.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1GwrWUkCYOkopWXoDy2PzEYyKL4j3cgLc"
+                    },
+                    {
+                        "name": "TE374_Lecture5_NetworkLayer_Data Plane.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1_t_v17I7-4ECEpbtEYCd3xjQAxt6ODN-"
+                    },
+                    {
+                        "name": "TE374_Lecture5_NetworkLayer_Data Plane.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1sxLx8adFwLE5owRgL37KRqlMZIkCVzAx"
+                    },
+                    {
+                        "name": "TE374_Lecture6_NetworkLayer_Control Plane.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1xdB3FtR7jM__50ofWDW_k_mwphwuqba3"
+                    },
+                    {
+                        "name": "TE374_Lecture7_DataLinkLayer.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1lzTsXdAlv9pB7601C8ZC9zQyNbsIHdSu"
+                    },
+                    {
+                        "name": "TE374_Lecture1_Overview.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1qito_fq_55c96hVIIUgYmFSwz_0hOLQ5"
+                    },
+                    {
+                        "name": "TE374_Lecture2_ApplicationLayer.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1k8ZMTef8IZEYTiEkKB0dilEVxUrtnGr0"
+                    },
+                    {
+                        "name": "TE374_Lecture4_TransportLayer.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1MDu6gq-3EewHrDtbj7dt2uXgNymtmLC_"
+                    },
+                    {
+                        "name": "TE 374_Lecture3_TransportLayer.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1GVY6FAH1O-fnAgloBCXID0PR5I0gAgbO"
+                    },
+                    {
+                        "name": "TE374courseinfo.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1QRxLzQW-To0aiIjjD0zZX9rGZ5H_1KYR"
+                    },
+                    {
+                        "name": "MIDSEM PASSCO.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1bm2EZWY4BZzueHbiCKs4a9TEiB_9vpN7"
+                    },
+                    {
+                        "name": "IMG-20250703-WA0009.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1zmqSHTaUW3AOGapBa-JAK71wXWxGn60r"
+                    },
+                    {
+                        "name": "Transport_Layer_QA.docx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1_kmqc-FrIFy73whMS7eIQBWD0LIkbGGH"
+                    },
+                    {
+                        "name": "Lecture_3_Transport_Layer_Questions_and_Answers.docx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1bdB7zqLFJUDUmz_168ko73TlXPbzmnOr"
+                    },
+                    {
+                        "name": "Transport_Layer_Summary.docx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1WM9vQNqKQrURZd0kG9twUmnceInuYGkK"
+                    },
+                    {
+                        "name": "Lecture_3_Transport_Layer_Slide_Explanations.docx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1DXnDx5OoxNlriMG8BU3V9CCgUBWRjYEs"
+                    },
+                    {
+                        "name": "Application_Layer_Theory_Questions_Answers.docx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1F8c-c_vRwF05NP4pToFqVU3N7puaodI2"
+                    },
+                    {
+                        "name": "Application_Layer_Slide_Summary.docx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1X72uUPckioy0dzE3MsmoW2cUI7XgTLJs"
+                    },
+                    {
+                        "name": "networking_lecture_summary_q_and_a_v2.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1uljax8cV6hSzCHtFqudkOFHl08piDFPy"
+                    },
+                    {
+                        "name": "networking_lecture_summary_v3.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1NImOTlTHxFNujzwLbmKBXOb-ea5Ulnsu"
+                    },
+                    {
+                        "name": "WhatsApp Image 2025-07-06 at 08.07.11_174a350b.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1FNoFhR5aP2XIJ5-U_W9OKGun3_3Kw0Kh"
+                    },
+                    {
+                        "name": "WhatsApp Image 2025-07-06 at 08.07.11_a1f30f67.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=16Dno-HPcCfle-9tLrCyM4OcXfEWCVC16"
+                    }
+                ],
+                "past": [],
+                "books": [],
+                "videos": []
+            },
+            "TE 372 (Engineering Project Design and Management)": {
+                "slides": [
+                    {
+                        "name": "Lecture Notes 3_Sensitivity&Scenario Analysis.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1r45wx0K4Ty9PCEi7PJ3_l7BwFAT0ZPlw"
+                    },
+                    {
+                        "name": "ProjectCost Mgt.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=16UspNhVajLpTUOUR6mKHK69zV4oC-AU7"
+                    },
+                    {
+                        "name": "Project Scope Mgt.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1oRd5YqlaBmcl1_whWzyOzHhtFqxrdtz6"
+                    },
+                    {
+                        "name": "Lecture Notes_Project Time Management-1.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1MeqMlqC777gLDOKxk4wlbrg-sa5h6iSD"
+                    },
+                    {
+                        "name": "PM_Introduction-1.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=11Wm7I9I9PbExrTH2ZafdqLJDGmI_BpCZ"
+                    },
+                    {
+                        "name": "TE  372_Lecture2.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1AnbnbXCQGV1AOJv3H1RWBpfp885XBMGh"
+                    },
+                    {
+                        "name": "TE  372_Lecture1.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1JNL8jFYVapGHhF7LOdqG3dNCxokF8yB2"
+                    },
+                    {
+                        "name": "Introduction and Course Outline-1.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1UNCHt1AEeSWGaFXF0YfQ1c9bc5uJFXj-"
+                    },
+                    {
+                        "name": "Lecture Notes 2 Investment Appraisal_part 2.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1k0JNvFYSCthkpANqk-SmbWhJRBi8u1Vw"
+                    },
+                    {
+                        "name": "Lecture Notes 2 Investment Appraisal.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1pZGT6gvoiceGCpna3djubRpuFKiiFXwT"
+                    },
+                    {
+                        "name": "Lecture Notes 1 Time Value of Money.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1NArkUM3Q4liaPQwA3rmHU7gMWTItvdRz"
+                    },
+                    {
+                        "name": "Lecture Notes 3_Sensitivity&Scenario Analysis.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1AH8-Z_WXWNL1TjomGBNWHvmLMCWLGxcm"
+                    },
+                    {
+                        "name": "GANTT CHART.xlsx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1ZFuEvfE4_MA0MHHtfzBle7RRMbtb9jtH"
+                    },
+                    {
+                        "name": "Engineering Management [Project] - GRP 10.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1BEN8KAARZYon-eSZWAz0JyKw06tIrzZG"
+                    },
+                    {
+                        "name": "ENGINEERING_DESIGN_PROJECTS.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1tdRsoAalswVLGQB70u6VubtEf8Uhc-Gg"
+                    },
+                    {
+                        "name": "GROUP 8.pptx",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1YLZp6wvlSg1ZXaCxUQ2KStDFHzwbGGQP"
+                    }
+                ],
+                "past": [
+                    {
+                        "name": "EPM MIDSEM SOLUTION.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1ONeEoKKUvRAEXFHYGlZUNtyEmpokZkfe"
+                    },
+                    {
+                        "name": "PM Pass Quo.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1n0ytBCG84D-1WhJaDLbbTE7o1wQt_Wve"
+                    },
+                    {
+                        "name": "Passco EPM SOLUTIONS.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=19SV7t8w2TKXoGjJpOylgYjOKp23zukjT"
+                    },
+                    {
+                        "name": "PM Pass Quo 1.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1yc55s5KoJUldA1vwQJmh9Zz9wBfgwZ8e"
+                    },
+                    {
+                        "name": "EPM MIDSEM.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1L4KeQy2DiGK_R54NfAjpCe7xXH9nKisn"
+                    }
+                ],
+                "books": [],
+                "videos": []
+            },
+            "TE 358 (Digital Communication)": {
+                "slides": [
+                    {
+                        "name": "Q-function Table.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1fMiqTFSJEk-xk3_5QU8wi01vNiR0P-hu"
+                    },
+                    {
+                        "name": "efrc table.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=14-YDCPC5MVosAULAI397kti1OHweCY61"
+                    },
+                    {
+                        "name": "ErrorPerformance.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=19FbRcSCXUZYDn2xDWtOBuU1HkcGlT8CM"
+                    },
+                    {
+                        "name": "Error&QFunc.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1X9RBsjZC_61E0iKAHu3rV0aPYT4RSSPk"
+                    },
+                    {
+                        "name": "WhatsApp Image 2025-07-09 at 14.52.40_d20658d7.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=12TR8MlMzpp4BHoZmrcR04guhFNzwxXXS"
+                    },
+                    {
+                        "name": "WhatsApp Image 2025-07-09 at 14.52.40_7dcd25af.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=18d1Nn1EbNoYiKOPGlR3GsV-kaKTp5Zeo"
+                    },
+                    {
+                        "name": "Simon Haykin - Communication Systems 4th Edition-Wiley (2000) - Copy.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=14HGKkCi5IE5uqUhLL-MHSppl0WVv4C30"
+                    },
+                    {
+                        "name": "TE 386 Digital Comm Slides General.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1wqCXEVAAkYC8Aj4un5YIFUzD7QRpfFGc"
+                    },
+                    {
+                        "name": "1887922.pdf",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1MYhDWDT4hXYUjlXHjNeDVXetvaZhkEA7"
+                    }
+                ],
+                "past": [
+                    {
+                        "name": "IMG-20250709-WA0053.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1DXg-JGoeebscrYNOeu147lywcHhWJS-m"
+                    },
+                    {
+                        "name": "IMG-20250709-WA0052.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1I_P7btfWJdllN6tP_z_uQZ0xfFh6j3TS"
+                    },
+                    {
+                        "name": "IMG-20250709-WA0051.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1GgBV3380VoEc89yCLxQbXPbmVbO-FMq4"
+                    },
+                    {
+                        "name": "IMG-20250709-WA0050.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1_plLH1WjhCmKeQCjBhX3o2JY6mB_RQmA"
+                    },
+                    {
+                        "name": "IMG-20250709-WA0049.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=17L1aIxGlO20sGIIl194JMYbtp8-Dfzqy"
+                    },
+                    {
+                        "name": "IMG-20250709-WA0048.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1nc34UB-hZlMdjFlU9SNo4t4DJpejU2-w"
+                    },
+                    {
+                        "name": "IMG-20250709-WA0047.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1DHyuZ3SNf-WDNFOn7etBsif0vNzs189V"
+                    },
+                    {
+                        "name": "IMG-20250709-WA0045.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1T32bNhetJ8iN91zNZp9k9RqjgMkndFeN"
+                    },
+                    {
+                        "name": "IMG-20250709-WA0042.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1x6kraaul7jzbZMUcedyCg8lRoCbaFayc"
+                    },
+                    {
+                        "name": "IMG-20250709-WA0043.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1zogCMi7agp8hgiWwWIAFtvcMvIhCUMPe"
+                    },
+                    {
+                        "name": "IMG-20250709-WA0044.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1Yf49XUsF8RXhJqvJGvNU6e7jT7m650-U"
+                    },
+                    {
+                        "name": "IMG-20250709-WA0046.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1w7GZQIfzN0ntykRxoeNMWzFL5v2sQz9q"
+                    },
+                    {
+                        "name": "IMG-20250709-WA0040.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1mmcH8GrWKIUDTdnCqs0wWx0QIli7FOJ5"
+                    },
+                    {
+                        "name": "IMG-20250709-WA0039.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1UyXh7JyCK7bJ-ZLULK7zCyPgrMn1qiL4"
+                    },
+                    {
+                        "name": "IMG-20250709-WA0038.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=17cDMt5BDbtXV6jIqvxSGCR6PUGzhKOVh"
+                    },
+                    {
+                        "name": "IMG-20250709-WA0041.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1i5MeSHf3MxVrUKUdTsTHvdkSyF7fe09g"
+                    },
+                    {
+                        "name": "IMG-20250709-WA0037.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1jI3beGsfs0VWEZvBXJbBUrr4Gqd2Dtka"
+                    },
+                    {
+                        "name": "IMG-20250709-WA0036.jpg",
+                        "download_link": "https://drive.google.com/uc?export=download&id=1-DI91kapIS1aisv9paTGq7MqiEJ0sSUZ"
+                    }
+                ],
+                "books": [],
+                "videos": []
             }
         }
     }
