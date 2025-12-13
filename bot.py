@@ -48,7 +48,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     reply_markup = InlineKeyboardMarkup(keyboard)
     
     welcome_text = (
-        "👋 *Welcome to Telesa Bot!* 🚀\n\n"
+        "👋 *Welcome to TELESA Bot!* 🚀\n\n"
         "🔍 *Smart Search:* Just type the name of a course or file to find it instantly!\n"
         "📚 Access slides, past questions, and books easily.\n"
         "👇 *Select your Year to get started:*"
