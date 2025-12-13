@@ -12,7 +12,9 @@ except ImportError:
 # ------------------------------------------
 
 from telegram import InlineKeyboardButton, InlineKeyboardMarkup, Update
-from telegram.ext import Application, CallbackQueryHandler, CommandHandler, ContextTypes
+from telegram.ext import Application, CallbackQueryHandler, CommandHandler, ContextTypes, MessageHandler, filters
+import user_manager
+import keep_alive
 
 # Enable logging
 logging.basicConfig(
@@ -30,6 +32,10 @@ with open(DATA_FILE, "r", encoding='utf-8') as f:
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     """Sends a styled welcome message."""
     keyboard = []
+    
+    # Favorites Button
+    keyboard.append([InlineKeyboardButton("⭐ My Favorites", callback_data="fav:list")])
+
     row = []
     for y in DATA.keys():
         row.append(InlineKeyboardButton(f"🎓 Year {y}", callback_data=f"year:{y}"))
@@ -41,13 +47,17 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     
     reply_markup = InlineKeyboardMarkup(keyboard)
     
-    # Check if this is a callback (Back button) or a command (/start)
+    welcome_text = (
+        "👋 *Welcome to Telesa Bot!* 🚀\n\n"
+        "🔍 *Smart Search:* Just type the name of a course or file to find it instantly!\n"
+        "📚 Access slides, past questions, and books easily.\n"
+        "👇 *Select your Year to get started:*"
+    )
+
     # Check if this is a callback (Back button) or a command (/start)
     if update.callback_query:
         await update.callback_query.edit_message_text(
-            "👋 *Welcome to the Telecom Resources Bot!* 🚀\n\n"
-            "📚 Access slides, past questions, and books easily.\n"
-            "👇 *Select your Year to get started:*",
+            welcome_text,
             reply_markup=reply_markup, 
             parse_mode="Markdown"
         )
@@ -61,19 +71,92 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
                 pass # Message might be too old or already deleted
 
         msg = await update.message.reply_text(
-            "👋 *Welcome to the Telecom Resources Bot!* 🚀\n\n"
-            "📚 Access slides, past questions, and books easily.\n"
-            "👇 *Select your Year to get started:*",
+            welcome_text,
             reply_markup=reply_markup, 
             parse_mode="Markdown"
         )
         context.user_data["last_menu_id"] = msg.message_id
 
+async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    """Handles text messages for Smart Search."""
+    query_text = update.message.text.lower()
+    
+    # Handle greetings
+    if query_text in ["hello", "hi", "hey", "start", "menu"]:
+        await start(update, context)
+        return
+    
+    # Handle clear
+    if query_text == "clear":
+        last_menu_id = context.user_data.get("last_menu_id")
+        if last_menu_id:
+            try:
+                await context.bot.delete_message(chat_id=update.message.chat_id, message_id=last_menu_id)
+            except Exception:
+                pass
+        return
+
+    if len(query_text) < 3:
+        await update.message.reply_text("🔍 Please type at least 3 characters to search.")
+        return
+
+    results = []
+    
+    # Search logic
+    for year, year_data in DATA.items():
+        for sem, sem_data in year_data.items():
+            for course, course_data in sem_data.items():
+                # Match Course Name
+                if query_text in course.lower():
+                    results.append({
+                        "type": "course",
+                        "name": course,
+                        "year": year,
+                        "sem": sem,
+                        "match": f"📘 {course}"
+                    })
+                
+                # Match File Names
+                for cat in ["slides", "past", "books", "videos"]:
+                    for file in course_data.get(cat, []):
+                        if query_text in file["name"].lower():
+                             results.append({
+                                "type": "file",
+                                "name": file["name"],
+                                "link": file["download_link"],
+                                "match": f"⬇️ {file['name'][:40]}..."
+                            })
+
+    if not results:
+        await update.message.reply_text("❌ No results found. Try a different keyword.")
+        return
+
+    # Limit results
+    results = results[:10]
+    
+    keyboard = []
+    for res in results:
+        if res["type"] == "course":
+            # Link to open the course
+            keyboard.append([InlineKeyboardButton(res["match"], callback_data=f"search_course:{res['year']}:{res['sem']}:{res['name']}")])
+        else:
+            # Direct download link
+            keyboard.append([InlineKeyboardButton(res["match"], url=res["link"])])
+
+    await update.message.reply_text(
+        f"🔍 *Search Results for '{query_text}':*",
+        reply_markup=InlineKeyboardMarkup(keyboard),
+        parse_mode="Markdown"
+    )
+
 async def handle_callback(update: Update, context: ContextTypes.DEFAULT_TYPE):
     """Parses the CallbackQuery and updates the message text."""
     query = update.callback_query
     data = query.data
-    await query.answer()
+    try:
+        await query.answer()
+    except Exception:
+        pass # Ignore if query is too old
 
     # -----------------------
     # Back to Home
@@ -81,6 +164,62 @@ async def handle_callback(update: Update, context: ContextTypes.DEFAULT_TYPE):
     if data == "home":
         await start(update, context)
         return
+
+    # -----------------------
+    # Favorites List
+    # -----------------------
+    if data == "fav:list":
+        favs = user_manager.get_favorites(query.from_user.id)
+        if not favs:
+            await query.edit_message_text(
+                "⭐ *You have no favorites yet.*\n\nGo to a course and click '⭐ Add to Favorites' to save it here!",
+                reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("🔙 Back", callback_data="home")]]),
+                parse_mode="Markdown"
+            )
+            return
+        
+        keyboard = []
+        for fav in favs:
+            keyboard.append([InlineKeyboardButton(f"📘 {fav['course']}", callback_data=f"course:{fav['course']}")])
+            # We need to set context data for these to work directly, but 'course:' handler usually expects them set.
+            # Workaround: The 'course:' handler below will need to look up year/sem if missing.
+        
+        keyboard.append([InlineKeyboardButton("🔙 Back", callback_data="home")])
+        
+        await query.edit_message_text(
+            "⭐ *My Favorites*",
+            reply_markup=InlineKeyboardMarkup(keyboard),
+            parse_mode="Markdown"
+        )
+        return
+
+    # -----------------------
+    # Toggle Favorite
+    # -----------------------
+    if data.startswith("fav:toggle:"):
+        _, _, year, sem, course = data.split(":")
+        user_id = query.from_user.id
+        
+        if user_manager.is_favorite(user_id, course):
+            user_manager.remove_favorite(user_id, course)
+            await query.answer("❌ Removed from Favorites")
+        else:
+            user_manager.add_favorite(user_id, year, sem, course)
+            await query.answer("⭐ Added to Favorites")
+        
+        # Refresh the course view to update the button
+        # We trigger the course handler logic again
+        data = f"course:{course}"
+        # Fall through to course handler...
+
+    # -----------------------
+    # Search Result Click (Course)
+    # -----------------------
+    if data.startswith("search_course:"):
+        _, year, sem, course = data.split(":")
+        context.user_data["year"] = year
+        context.user_data["semester"] = sem
+        data = f"course:{course}" # Redirect to standard course handler logic
 
     # -----------------------
     # Step 1: Select Year
@@ -123,7 +262,7 @@ async def handle_callback(update: Update, context: ContextTypes.DEFAULT_TYPE):
         keyboard.append([InlineKeyboardButton("🔙 Back", callback_data=f"year:{year}")])
 
         await query.edit_message_text(
-            f"� *Semester {semester} Selected*\n\n👇 Choose your course:",
+            f"🗓 *Semester {semester} Selected*\n\n👇 Choose your course:",
             reply_markup=InlineKeyboardMarkup(keyboard), 
             parse_mode="Markdown"
         )
@@ -132,14 +271,23 @@ async def handle_callback(update: Update, context: ContextTypes.DEFAULT_TYPE):
     # -----------------------
     # Step 3: Select Course
     # -----------------------
-    # -----------------------
-    # Step 3: Select Course
-    # -----------------------
     if data.startswith("course:"):
         course = data.split(":")[1]
         context.user_data["course"] = course
         
-        # Check available content
+        # Find year/sem if not in context (e.g. from Favorites or Search)
+        if "year" not in context.user_data or "semester" not in context.user_data:
+            # Brute force find
+            found = False
+            for y, y_data in DATA.items():
+                for s, s_data in y_data.items():
+                    if course in s_data:
+                        context.user_data["year"] = y
+                        context.user_data["semester"] = s
+                        found = True
+                        break
+                if found: break
+        
         year = context.user_data["year"]
         semester = context.user_data["semester"]
         course_data = DATA[year][semester][course]
@@ -169,8 +317,13 @@ async def handle_callback(update: Update, context: ContextTypes.DEFAULT_TYPE):
         if row:
             keyboard.append(row)
 
+        # Favorites Button
+        is_fav = user_manager.is_favorite(query.from_user.id, course)
+        fav_text = "❌ Remove Favorite" if is_fav else "⭐ Add to Favorites"
+        keyboard.append([InlineKeyboardButton(fav_text, callback_data=f"fav:toggle:{year}:{semester}:{course}")])
+
         # Back button goes to Semester selection
-        keyboard.append([InlineKeyboardButton("🔙 Back", callback_data=f"sem:{context.user_data['semester']}")])
+        keyboard.append([InlineKeyboardButton("🔙 Back", callback_data=f"sem:{semester}")])
 
         await query.edit_message_text(
             f"📘 *{course}*\n\n👇 Choose resource type:",
@@ -239,7 +392,7 @@ async def handle_callback(update: Update, context: ContextTypes.DEFAULT_TYPE):
             await context.bot.send_document(chat_id=query.message.chat_id, document=url, filename=name)
         except Exception as e:
             logging.error(f"Error sending file: {e}")
-            await query.message.reply_text(f"❌ Error or file too large.\n[Click here to download manually]({url})", parse_mode="Markdown")
+            await query.message.reply_text(f"📂 *File is ready!*\n[👉 Click here to download]({url})", parse_mode="Markdown")
         return
     
     if data == "ignore":
@@ -259,10 +412,16 @@ def main():
 
     application = Application.builder().token(TOKEN).job_queue(None).build()
 
+    # Start the keep-alive server for Render
+    keep_alive.keep_alive()
+
     application.add_handler(CommandHandler("start", start))
     application.add_handler(CallbackQueryHandler(handle_callback))
+    
+    # Add handler for text messages (Smart Search)
+    application.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, handle_message))
 
-    application.run_polling()
+    application.run_polling(connect_timeout=30, read_timeout=30, write_timeout=30)
 
 if __name__ == "__main__":
     main()
